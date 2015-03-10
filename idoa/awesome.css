@@ -1,0 +1,84 @@
+body {
+  width:744px;
+  margin:0 auto;
+  padding:0;
+  font: 80%/1.5 "lucida grande", tahoma, verdana, sans-serif;
+  background: url("../images/draft/background.png") #ffd954 repeat-x top;
+  color:#51110c;
+          }
+
+          a {
+            color:#55a2b1;
+            font-weight:bold;
+            text-decoration:none;
+                }
+
+                h3 strong {
+                  color:#51110c;
+                  }
+
+                  em, strong {
+                    color:#be211c;
+                    }
+
+                    em {
+                      color:#333;
+                      }
+
+                      #header h1 {
+                        position:relative;
+                        width: 739px;
+                        height:117px;
+                        margin:20px 0 45px -65px;
+                        background:url("../images/draft/logo_international.png") no-repeat left top;
+                        text-indent:-1500px;
+                        overflow:hidden;
+                                    }
+
+                                    #header h2 {
+                                      font-size:2em;
+                                      font-weight:bold;
+                                        }
+
+                                        #header h2 abbr {
+                                          border:none;
+                                          }
+
+                                          #header p {
+                                            margin:1em;
+                                            padding:0 0 0 35px;
+                                            font-size:1.5em;
+                                                }
+
+                                                #header p.translations {
+                                                  font-size:10px;
+                                                  text-align:center;
+                                                    }
+
+                                                    #content ul.hfeed {
+                                                      list-style:none;
+                                                      }
+
+                                                      #content ul.hfeed li.hentry {
+                                                        position:relative;
+                                                        margin:0 0 30px 0;
+                                                        padding:10px;
+                                                        border:solid 1px #2e6b84;
+                                                        background:#fff;
+                                                        -moz-border-radius: 10px;
+                                                        border-radius: 10px;
+                                                                    }
+
+                                                                    #content ul.hfeed li.hentry h3 {
+
+                                                                      margin:0 0 1em 0;
+                                                                      color:#2e6b84;
+                                                                        }
+
+                                                                        #content #faq-what, #content #faq-where, #faq-tags {
+                                                                          left: 40px;
+                                                                          }
+
+                                                                          #content #faq-how, #content #faq-international {
+                                                                            left: -40px;
+                                                                            }
