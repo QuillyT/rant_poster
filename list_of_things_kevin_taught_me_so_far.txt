@@ -1,0 +1,106 @@
+Things Kevin Taught Me (SO FAR 3/10/2015)
+
+brew info redis
+“deleted" tables instead of paranoia models
+brew outdated - brew upgrade
+rvm get stable
+
+webserver:
+unicorn worker killers are masking a problem. finely turned apps shouldn’t not have memory leaks. 
+
+css:
+inline styling is a smell!
+
+Rails/modules:
+If it's not a model or controller, Rails is going to be a bastard about your modules.
+
+iaas:
+AWS means probably means more memory/CPU for the app to deal with large pictures. We are struggling on heroku because of the limited memory available
+
+French Press:
+Pour in a little water, wet all the grounds, pour in the rest of the water, let it sit, stir halfway through, press, drink.
+
+Puma vs Phusion/Passenger:
+The thing w/ heroku is that it has to be single-process so puma kind of wins by default.
+I think Puma's a fine decision for heroku - I'd still use Passenger if we were on our own hardware
+
+General Purpose Alerts
+javascript, fades out after certain time
+lynxsy.uniqueId=function() {
+  lynxsy.i++;
+  return "lynxsy-"+lynxsy.i;
+}
+
+lynxsy.alert=function(type,msg) {
+  var alert_id = lynxsy.uniqueId();
+  out = "<div id='"+alert_id+"'><div class='alert alert-"+type+" fade in'>";
+  out += "<a href='#' data-dismiss='alert' class='close'>x</a>";
+  out += msg;
+  out += "</div></div>";
+  $("#nav-links").after($(out));
+  setTimeout("lynxsy.fade_alert('"+alert_id+"')", 5000);
+}
+
+lynxsy.fade_alert=function(id) {
+  $("#"+id).slideUp(function() {
+      $("#"+id).remove();
+      })
+}
+
+Archive Tables for 
+
+lynxsy.dbg=function(msg) {
+  if (server_env != "production") {
+    console.log(msg);
+  }
+}```
+
+And there's a thing in the layout now that sets server_env = Rails.env.
+
+database things should be faster locally than in production unless you're trying to use a huge dataset.
+
+asset stuff sucks all over.
+kplawver[12:52 PM]they don't call it the asshat pipeline for nothin’
+
+WORKERS
+little jobs that do little things 
+a big one dying… and trying is bad…
+so make a worker that calls workers
+
+Should celebrate more!
+
+Never go to Savannah in October (sand gnats)
+
+  August is ok, too hot for tourists so you can enjoy the touristy stuff without them.
+
+  Make default branch in github staging for pushes since everything should go through staging before it hits master
+
+  JAVASCRIPT
+  init method to check if other init methods should be called based off existing elements on the screen
+
+  Don’t rely on Ruby’s truthiness. It has (and probably will) change.
+
+  Updating the column directly is a good way to accidentally insert bad data and you're just cheating. If you just want to skip callbacks, find the "right" way to do that instead of a way that just happens to work now on this version of rails.
+
+  1/9/2015
+  Production DB is not big enough yet to not want on my machine.
+  remove model events though
+  probably unless you want to work with them
+
+  SOMEWHERE BETWEEN 1/9-2/4
+  KEVIN STARTED TO LOVE API TESTS
+  NO MORE REFRESHING THE BROWSER!
+
+  2/4/2015
+  Sidekiq Threads
+  It looks like it was the worker threads that were stuck.
+  It happens because redis is an asshole.
+  So, if you see the sidekiq dashboard say both things are busy and the queue's not getting smaller, probably time to restart the workers.
+  We should probably also check on retries every once in a while too and clean them out.
+
+  2/9/2015
+  object.ids - returns and array of ids… amazing, no more mapping/plucking for those!
+
+  2/10/2015
+Almost always better to have proper associations than to delegate things (so they can be included in queries)
+  Our app stores sessions in memcached. a browser Cookie has an encrypted memcached ID and rails grabs the data from there. To test… can’t see in browser dev tools because its encrypted and not the data you’re looking for, and you have to log or dump the data from the controller, hard to check on session hash in better_errors
