@@ -1,0 +1,373 @@
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" version="2.0">
+<channel>
+<title>Ultranormal</title>
+<atom:link href="http://lawver.net/feed/" rel="self" type="application/rss+xml"/>
+<link>http://lawver.net</link>
+<description>
+Kevin and Jennifer Lawver's blog about whatever we want to talk about.
+</description>
+<lastBuildDate>Sun, 04 Jan 2015 15:39:49 +0000</lastBuildDate>
+<language>en-US</language>
+<sy:updatePeriod>hourly</sy:updatePeriod>
+<sy:updateFrequency>1</sy:updateFrequency>
+<generator>http://wordpress.org/?v=4.1.1</generator>
+<item>
+<title>Vegetable Stock in the Crock Pot</title>
+<link>
+http://lawver.net/2015/01/vegetable-stock-in-the-crock-pot/
+</link>
+<comments>
+http://lawver.net/2015/01/vegetable-stock-in-the-crock-pot/#comments
+</comments>
+<pubDate>Sun, 04 Jan 2015 15:26:02 +0000</pubDate>
+<dc:creator>
+<![CDATA[ Kevin Lawver ]]>
+</dc:creator>
+<category>
+<![CDATA[ cooking ]]>
+</category>
+<category>
+<![CDATA[ soup ]]>
+</category>
+<category>
+<![CDATA[ stock ]]>
+</category>
+<category>
+<![CDATA[ vegetable stock ]]>
+</category>
+<guid isPermaLink="false">http://lawver.net/?p=2814</guid>
+<description>
+<![CDATA[
+A simple title, but this is a really simple recipe. I decided after a tough week and after seeing someone mention it on Instagram, that I really needed 15 bean soup. Instead of just using water, I decided to try making homemade vegetable stock. I had some veggies and I have a crock pot. How &#8230; <a href="http://lawver.net/2015/01/vegetable-stock-in-the-crock-pot/" class="more-link">Continue reading <span class="screen-reader-text">Vegetable Stock in the Crock Pot</span></a>
+]]>
+</description>
+<content:encoded>
+<![CDATA[
+<p>A simple title, but this is a really simple recipe. I decided after a tough week and after seeing someone mention it on Instagram, that I really needed 15 bean soup. Instead of just using water, I decided to try making homemade vegetable stock. I had some veggies and I have a crock pot. How h
+]]>
+<![CDATA[
+ard could it be? </p> <p>Not hard at all. I have a mammoth 6 quart crock pot, so you might need to reduce the amounts of things if you have a smaller one.</p> <p>This is a mishmash of a bunch of different recipes I found online with most of the ingredients doubled and a couple added. This stuff comes out really savory and a lot richer (not subtle at all) than other vegetable stocks I&#8217;ve tried before &#8211; and way better than anything I&#8217;ve ever had out of can.</p> <h4>Ingredients</h4> <ul> <li>2 small tomatoes, quartered</li> <li>2 smallish sweet onions, quartered</li> <li>1 bunch of celery, cleaned and w/ the butt chopped off. Leave the leaves!</li> <li>A bunch of carrots, chopped up.</li> <li>1 tablespoon-ish of salt</li> <li>1 tablespoon-ish of minced garlic</li> <li>1 teaspoon of dried oregano</li> <li>1 squirt of Sriracha</li> <li>2-4 peppercorns (I put in 3x that many and it&#8217;s really peppery &#8211; it&#8217;s good, but a little goes a long way).</li> </ul> <h4>Directions</h4> <ol> <li>Put everything in the crock pot</li> <li>Fill your crock pot up with water, almost to the top but not quite.</li> <li>Cook on low for 6-7 hours</li> <li>Strain out all the bits &#8211; mine came out a little cloudy, probably because of the tomato. If you care about that, then you might want to strain it through a coffee filter or cheesecloth.</li> <li>Let cool for 30 minutes</li> <li>Put it in the fridge</li> <li>Make something awesome with it later, or just drink it and get superpowers.</li> </ol> <p>It ended up producing a little over a liter of stock &#8211; I think using fewer vegetables would have been just as effective and produced more stock.</p> <p>I&#8217;m making <a href="http://www.hurstbeans.com/recipes/288/15-Bean-Soup-Crock-Pot-or-Slow-Cooker-Recipe">15 Bean Soup</a> with mine, but you could use it for pretty much anything, or just drink it right up. We had more than would fit in the container for the fridge, so Jen and I both had a mug and it was great!</p> <p>Enjoy!</p>
+]]>
+</content:encoded>
+<wfw:commentRss>
+http://lawver.net/2015/01/vegetable-stock-in-the-crock-pot/feed/
+</wfw:commentRss>
+<slash:comments>0</slash:comments>
+</item>
+<item>
+<title>Merry Christmas, Now Make Fancy Butter!</title>
+<link>
+http://lawver.net/2014/12/merry-christmas-now-make-fancy-butter/
+</link>
+<comments>
+http://lawver.net/2014/12/merry-christmas-now-make-fancy-butter/#comments
+</comments>
+<pubDate>Thu, 25 Dec 2014 14:05:28 +0000</pubDate>
+<dc:creator>
+<![CDATA[ Kevin Lawver ]]>
+</dc:creator>
+<category>
+<![CDATA[ cooking ]]>
+</category>
+<category>
+<![CDATA[ butter ]]>
+</category>
+<category>
+<![CDATA[ Sriracha ]]>
+</category>
+<guid isPermaLink="false">http://lawver.net/?p=2809</guid>
+<description>
+<![CDATA[
+We were invited to a big family Christmas Eve dinner and were supposed to bring an appetizer. We had an antipasto tray ready to go, but that wasn&#8217;t experimental enough, so we decided to make a &#8220;flight&#8221; of fancy butters to go along with the bread we knew would be there. They were a big &#8230; <a href="http://lawver.net/2014/12/merry-christmas-now-make-fancy-butter/" class="more-link">Continue reading <span class="screen-reader-text">Merry Christmas, Now Make Fancy Butter!</span></a>
+]]>
+</description>
+<content:encoded>
+<![CDATA[
+<figure id="attachment_2810" style="width: 440px;" class="wp-caption aligncenter"><a href="http://lawver.net/wp-content/uploads/2014/12/IMG_5511.jpg"><img src="http://lawver.net/wp-content/uploads/2014/12/IMG_5511-440x440.jpg" alt="A picture of two fancy butters in ramekins." width="440" height="440
+]]>
+<![CDATA[
+" class="size-medium wp-image-2810" /></a><figcaption class="wp-caption-text">Garlic herb butter on the left, Honey-Sriracha on the right.</figcaption></figure> <p>We were invited to a big family Christmas Eve dinner and were supposed to bring an appetizer. We had an antipasto tray ready to go, but that wasn&#8217;t <em>experimental</em> enough, so we decided to make a &#8220;flight&#8221; of fancy butters to go along with the bread we knew would be there. They were a big hit, and really easy to make (it took longer to clean the mixing bowl and the whisk attachment than to make the butter). Here&#8217;s what we made:</p> <p><a href="http://realmomkitchen.com/10827/sweet-orange-butter/">Sweet Orange Butter</a> &#8211; This is amazing. Sweet, very orange-rich, and would be amazing on biscuits, waffles or pancakes.</p> <h4>Garlic-Herb Butter </h4> <p>I think because we had lasagna, this one went the fastest.</p> <ul> <li>1/2 pound of softened butter</li> <li>3-4 sprigs of thyme</li> <li>2 sprigs of rosemary</li> <li>10-12 chive stalks</li> <li>1 teaspoon minced garlic</li> </ul> <h5>Instructions:</h5> <ol> <li>Remove the rosemary and thyme leaves from their stalks</li> <li>Pulse all the herbs in the food process until they&#8217;re finely diced but before they turn into pesto.</li> <li>Throw everything in the mixer</li> <li>Whisk on low for a minute</li> <li>Whisk on high for a minute or two until everything is mixed in</li> <li>Refrigerate to firm it back up.</li> </ol> <h4>Sriracha Honey Butter </h4> <p>This one was an experiment, mostly because I love adding Sriracha to things. It turned out really well. I&#8217;m not sure what the food science is behind mixing fat and Sriracha together that turns things into deliciousness, but I love it. This ended up with just a tiny bit of heat (kids were eating it and not crying, that&#8217;s how little heat there is), but with a great smokey pepper flavor that worked really well with the honey.</p> <ul> <li>1/2 pound of softened butter</li> <li>2 tablespoons of Sriracha</li> <li>3 tablespoons of honey</li> </ul> <h5>Instructions:</h5> <ol> <li>You don&#8217;t really need to measure things. I&#8217;m guessing as to how much I put in there, but it was basically those proportions &#8211; slightly more honey than Sriracha</li> <li>Throw it all the mixer</li> <li>Whisk on low for a minute</li> <li>Whisk on high until everything&#8217;s combined.</li> <li>Refrigerate to firm it back up.</li> </ol> <p>We put them in creme brulee ramekins to serve (1/2 pound of butter ended up filling two ramekins, so you might want to halve the recipes for a smaller party).</p> <p>I didn&#8217;t think making crazy butter would be so easy, or be so well-received. I&#8217;m going to have to try some more!</p>
+]]>
+</content:encoded>
+<wfw:commentRss>
+http://lawver.net/2014/12/merry-christmas-now-make-fancy-butter/feed/
+</wfw:commentRss>
+<slash:comments>1</slash:comments>
+</item>
+<item>
+<title>Kevin’s Favorite Albums of 2014</title>
+<link>
+http://lawver.net/2014/12/kevins-favorite-albums-of-2014/
+</link>
+<comments>
+http://lawver.net/2014/12/kevins-favorite-albums-of-2014/#comments
+</comments>
+<pubDate>Tue, 23 Dec 2014 12:49:27 +0000</pubDate>
+<dc:creator>
+<![CDATA[ Kevin Lawver ]]>
+</dc:creator>
+<category>
+<![CDATA[ music ]]>
+</category>
+<guid isPermaLink="false">http://lawver.net/?p=2808</guid>
+<description>
+<![CDATA[
+I can&#8217;t believe the last time I did this was in 2011, but it&#8217;s time to do it again! 2014 was a great year for music! Again! My 2014 Favorites has 256 songs on it. Last year&#8217;s has almost 350, but I think that&#8217;s more about me being more selective about what goes on it &#8230; <a href="http://lawver.net/2014/12/kevins-favorite-albums-of-2014/" class="more-link">Continue reading <span class="screen-reader-text">Kevin&#8217;s Favorite Albums of 2014</span></a>
+]]>
+</description>
+<content:encoded>
+<![CDATA[
+<p>I can&#8217;t believe the last time I did this was in <a href="http://wp.me/p1kTAo-HO">2011</a>, but it&#8217;s time to do it again! 2014 was a great year for music! Again! My <a href="http://rd.io/x/QE9kLzVZew/">2014 Favorites</a> has 256 songs on it. <a href="http://rd.io/x/QE9kL10Iuw/">Last year&#8217;s</a> has almost 350, but I think that&#8217;s more about me being more selective about what goes on it than the quality of the year.</p> <p>I decided to break up the list into three sections, because I don&#8217;t think it&#8217;s fair to compare albums by bands I&#8217;ve loved for years with new stuff that jumped out enough to be considered. I&#8217;m getting older and though I&#8217;m trying <em>really</em> hard not to let my musical taste calcify, well, I think it&#8217;s inevitable. Also, the &#8220;throwbacks&#8221; fit a theme for me. They&#8217;re all committed to a sound from the past and pull it off expertly. All four albums will have you grinning from ear to ear just to hear great new songs in styles you thought were dead.</p> <h4>Repeat Offenders</h4> <ul> <li><a href="http://rd.io/x/QE9kPgDOQQ/">For John by Library Voices</a></li> <li><a href="http://rd.io/x/QE9kPnjf3w/">Rave Tapes by Mogwai</a></li> <li><a href="http://rd.io/x/QE9kPn7EKg/">Cosmos by Yellow Ostrich</a></li> <li><a href="http://rd.io/x/QE9kPn_xZg/">Kudos to You! by The Presidents Of The United States Of America</a></li> <li><a href="http://rd.io/x/QE9kPgcW0A/">Free Will by Bry Webb</a></li> <li><a href="http://rd.io/x/QE9kPgfmGA/">Endless Wonder by Say Hi</a></li> <li><a href="http://rd.io/x/QE9kPgKPHQ/">Familiars by The Antlers</a></li> <li><a href="http://rd.io/x/QE9kPgYRAw/">Arcadie by Archimede</a></li> <li><a href="http://rd.io/x/QE9kPgXz4w/">Sand + Silence by The Rosebuds</a></li> <li><a href="http://rd.io/x/QE9kPgpP2A/">Brill Bruisers by The New Pornographers</a></li> </ul> <h4>Throwbacks</h4> <ul> <li><a href="http://rd.io/x/QE9kPgGZyA/">The Future Happens Anyway by NQ Arbuckle</a></li> <li><a href="http://rd.io/x/QE9kPnsCXQ/">Give the People What They Want by Sharon Jones and the Dap-Kings</a></li> <li><a href="http://rd.io/x/QE9kPn-AGA/">Therapy by The New Mastersounds</a></li> <li><a href="http://rd.io/x/QE9kPgL_-g/">Running of the Bulls by My Neighbor Is</a></li> </ul> <h4>The New Kids</h4> <ul> <li><a href="http://rd.io/x/QE9kPgNqaA/">Supermodel by Foster the People</a></li> <li><a href="http://rd.io/x/QE9kPn9uuw/">Mind Over Matter by Young the Giant</a></li> <li><a href="http://rd.io/x/QE9kPnm8Mg/">So Long, See You Tomorrow by Bombay Bicycle Club</a></li> <li><a href="http://rd.io/x/QE9kPn3NxA/">Atlas by Real Estate</a></li> <li><a href="http://rd.io/x/QE9kPgEE-A/">When Lost at Sea by The Wooden Sky</a></li> <li><a href="http://rd.io/x/QE9kPn5j2w/">9 Dead Alive by Rodrigo y Gabriela</a></li> <li><a href="http://rd.io/x/QE9kPgIKTQ/">Sea When Absent by A Sunny Day in Glasgow</a></li> <li><a href="http://rd.io/x/QE9kPn-icw/">After the Disco by Broken Bells</a></li> </ul> <p>And there you have it&#8230; my favorite albums of 2014. Enjoy!</p>
+]]>
+</content:encoded>
+<wfw:commentRss>
+http://lawver.net/2014/12/kevins-favorite-albums-of-2014/feed/
+</wfw:commentRss>
+<slash:comments>3</slash:comments>
+</item>
+<item>
+<title>Leftovers Accomplished: Turkey Ramen</title>
+<link>
+http://lawver.net/2014/11/leftovers-accomplished-turkey-ramen/
+</link>
+<comments>
+http://lawver.net/2014/11/leftovers-accomplished-turkey-ramen/#comments
+</comments>
+<pubDate>Sun, 30 Nov 2014 17:11:32 +0000</pubDate>
+<dc:creator>
+<![CDATA[ Kevin Lawver ]]>
+</dc:creator>
+<category>
+<![CDATA[ cooking ]]>
+</category>
+<category>
+<![CDATA[ daily tedium ]]>
+</category>
+<category>
+<![CDATA[ leftovers ]]>
+</category>
+<category>
+<![CDATA[ ramen ]]>
+</category>
+<category>
+<![CDATA[ thanksgiving ]]>
+</category>
+<guid isPermaLink="false">http://lawver.net/?p=2803</guid>
+<description>
+<![CDATA[
+What do you do with your turkey carcass after Thanksgiving? My mom suggested making stock, so that&#8217;s what we did! And then I realized that we could turn that stock into ramen broth with just a few more ingredients and with the crock pot, we could do it with a lot less effort than it &#8230; <a href="http://lawver.net/2014/11/leftovers-accomplished-turkey-ramen/" class="more-link">Continue reading <span class="screen-reader-text">Leftovers Accomplished: Turkey Ramen</span></a>
+]]>
+</description>
+<content:encoded>
+<![CDATA[
+<p><a href="http://lawver.net/wp-content/uploads/2014/11/2014-11-29-18.30.17-2.jpg"><img src="http://lawver.net/wp-content/uploads/2014/11/2014-11-29-18.30.17-2-620x620.jpg" alt="A finished bowl of turkey ramen" width="474" height="474" class="aligncenter size-large wp-image-2804" /></a></p> <p>Wha
+]]>
+<![CDATA[
+t do you do with your turkey carcass after Thanksgiving? My mom suggested making stock, so that&#8217;s what we did! And then I realized that we could turn that stock into ramen broth with just a few more ingredients and with the crock pot, we could do it with a lot less effort than it took to make <a href="http://the-cooking-of-joy.blogspot.com/2012/12/momofuku-ramen-broth.html">Momofuku ramen broth</a> (which my son and I took 12 hours to do one day &#8211; it was delicious, but a lot of work).</p> <p>So, here&#8217;s my turkey ramen recipe, which turned out way better than I expected and was slurped up in minutes by my family.</p> <ol> <li>We took the turkey carcass, with some leftover meat on it, legs and wings (which no one in my family likes), tore it up and stuffed it disrespectfully into my 6 quart crock pot, then covered it with water. We&#8217;d smoked the turkey, so you may get different results if your turkey was roasted, but it&#8217;ll still be good.</li> <li>Crock pot it on low for 18 hours (really).</li> <li>Strain out the broth. I used a metal colander because I don&#8217;t have one of those fancy soup colander things. I just wanted to make sure I caught any bones and big chunks. The great thing about ramen broth is that you don&#8217;t have to be as diligent about skimming off fat as you would with a classical stock.</li> <li>After straining it out, I put the broth back in the crock pot with two packages of mushrooms (one shiitake, one baby bella), a chunk of jowl bacon and two ham hocks and let it go for another 18 hours. You could use bacon ends, a ham bone, just something porky to give it some extra punch. I also added some more water to get it back up to almost the top (I left about an inch between the broth and the top).</li> <li>With about four hours to go, I added 2-3 tablespoons of soy sauce. It probably doesn&#8217;t matter too much when you add this.</li> <li>I didn&#8217;t have any ramen noodles, so I made pad thai noodles, which worked fine.</li> <li>Plating is pretty easy. In each bowl, I put: <ul> <li>1 poached egg (I poached them in a sauce pan full of water and put the eggs in biscuit cutters to keep them together)</li> <li>Chopped green onions</li> <li>Grated carrots</li> <li>Some chopped up leftover turkey</li> <li>Finely chopped roasted unsalted peanuts.</li> </ul> </li> </ol> <p>That&#8217;s pretty much it! The broth came out full of strong flavors, which matched well with the light flavors in the bowl.</p> <p>I don&#8217;t think I&#8217;ll ever go back to the 12 hour process. This worked really well and should be super flexible.</p> <p>The only thing I might do differently is to actually make the <a href="http://the-cooking-of-joy.blogspot.com/2012/12/momofuku-ramen-broth.html">tare</a> instead of just dumping in soy sauce, since it&#8217;s easy to make and super versatile. If I were starting from scratch and had it handy, I might also start with the konbu broth and then pour that over whatever poultry I started with in the crock pot.</p> <p>If you come up with interesting twists on it, let me know what you do!</p>
+]]>
+</content:encoded>
+<wfw:commentRss>
+http://lawver.net/2014/11/leftovers-accomplished-turkey-ramen/feed/
+</wfw:commentRss>
+<slash:comments>0</slash:comments>
+</item>
+<item>
+<title>Cold Brew Coffee</title>
+<link>http://lawver.net/2014/02/cold-brew-coffee/</link>
+<comments>
+http://lawver.net/2014/02/cold-brew-coffee/#comments
+</comments>
+<pubDate>Fri, 07 Feb 2014 14:55:44 +0000</pubDate>
+<dc:creator>
+<![CDATA[ Kevin Lawver ]]>
+</dc:creator>
+<category>
+<![CDATA[ cooking ]]>
+</category>
+<category>
+<![CDATA[ coffee ]]>
+</category>
+<category>
+<![CDATA[ cold-brew ]]>
+</category>
+<category>
+<![CDATA[ recipe ]]>
+</category>
+<guid isPermaLink="false">http://lawver.net/?p=2772</guid>
+<description>
+<![CDATA[
+I love cold brewed coffee. It&#8217;s smoother than regular coffee, and depending on the beans you use, chocolatey too. It&#8217;s a great change of pace from a regular cup, and great in the summer. I&#8217;ve been playing with my recipe for a while and I figured I&#8217;d pop it up here so other people can &#8230; <a href="http://lawver.net/2014/02/cold-brew-coffee/" class="more-link">Continue reading <span class="screen-reader-text">Cold Brew Coffee</span></a>
+]]>
+</description>
+<content:encoded>
+<![CDATA[
+<p><a href="http://lawver.net/wp-content/uploads/2014/02/2014-02-07-09.35.44-2.jpg"><img src="http://lawver.net/wp-content/uploads/2014/02/2014-02-07-09.35.44-2-440x440.jpg" alt="2014-02-07 09.35.44-2" width="440" height="440" class="alignnone size-medium wp-image-2774" /></a></p> <p>I love cold brewed coffee. It&#8217;s smoother than regular coffee, and depending on the beans you use, chocolatey too. It&#8217;s a great change of pace from a regular cup, and great in the summer. I&#8217;ve been playing with my recipe for a while and I figured I&#8217;d pop it up here so other people can try it out. First, equipment:</p> <ul> <li><a href="http://www.amazon.com/gp/product/B0095ZBJVA?ie=UTF8&amp;camp=213733&amp;creative=393185&amp;creativeASIN=B0095ZBJVA&amp;linkCode=shr&amp;tag=ultranormal-20&amp;qid=1391784136&amp;sr=8-6&amp;amp">Takeya Tea Maker</a>; &#8211; It&#8217;s a small pitcher with a built-in basket for tea. I just use coffee instead. It makes cleanup and filtering a <em>lot</em> easier.</li> <li><a href="http://cuptocupcoffee.com">Good Coffee</a> &#8211; This is a must. If you don&#8217;t have a local roaster, I&#8217;d check out <a href="http://tonx.org">Tonx</a>. But, you probably have a local roaster. Find them. Become friends with them. Get good coffee beans from them.</li> <li>A grinder that can do a coarse grind. I have a <a href="http://www.amazon.com/gp/product/B000FBYRMQ?ie=UTF8&amp;camp=213733&amp;creative=393185&amp;creativeASIN=B000FBYRMQ&amp;linkCode=shr&amp;tag=ultranormal-20&amp;=home-garden&amp;qid=1391784415&amp;sr=1-6">cheap one that works fine</a>. Or, if you&#8217;re feeling spendy, you could jump up a couple brackets and get a nice burr grinder. I have a small manual Hario thing I use when I&#8217;m serious about the grind, but the blade grinder works for me for now.</li> </ul> <p>If you have the 1 quart pitcher, you should grind enough beans for a 12-cup pot of coffee and put your grinder on the coarsest setting.</p> <p>Once you have the coffee, put it in the basket, fill the pitcher with filtered water and then close it up and stick it in the fridge. I like mine super rich, so I usually let it steep for a couple days before I take it out. The professionals leave it in for up to a week, but two days is usually enough for me.</p> <p>I also shake it up a couple times a day to stir things up and mix the grounds up a little. It&#8217;s probably just a placebo thing, but I think it makes better coffee to agitate it a bit.</p> <p>After you&#8217;ve let it steep in the fridge, it&#8217;s time to filter it. The basket&#8217;s going to catch most of the grounds, but you&#8217;ll have some sludge in there that&#8217;s good to filter out. I pour mine through my drip coffee machine filter and that takes out 95% of the sludge. I have friends who use a french press for their cold brew, which works really well because you get to skip the filtering step, but I don&#8217;t yet have a large enough french press to make that work.</p> <p>There you have it, my recipe for cold brew. What&#8217;s your recipe?</p>
+]]>
+</content:encoded>
+<wfw:commentRss>http://lawver.net/2014/02/cold-brew-coffee/feed/</wfw:commentRss>
+<slash:comments>0</slash:comments>
+</item>
+<item>
+<title>Learn to Code By Cheating</title>
+<link>
+http://lawver.net/2013/10/learn-to-code-by-cheating/
+</link>
+<comments>
+http://lawver.net/2013/10/learn-to-code-by-cheating/#comments
+</comments>
+<pubDate>Sat, 12 Oct 2013 15:18:12 +0000</pubDate>
+<dc:creator>
+<![CDATA[ Kevin Lawver ]]>
+</dc:creator>
+<category>
+<![CDATA[ development ]]>
+</category>
+<category>
+<![CDATA[ javascript ]]>
+</category>
+<guid isPermaLink="false">http://lawver.net/?p=2758</guid>
+<description>
+<![CDATA[
+My kids love Cookie Clicker. And, only because they can&#8217;t stop talking about it, I checked it out. My 14 year-old told me he&#8217;s figured out how to cheat at the game so bad that he basically ends up with &#8220;infinity cookies&#8221;. Wait, let&#8217;s step back. The game is weird and silly and involves clicking &#8230; <a href="http://lawver.net/2013/10/learn-to-code-by-cheating/" class="more-link">Continue reading <span class="screen-reader-text">Learn to Code By Cheating</span></a>
+]]>
+</description>
+<content:encoded>
+<![CDATA[
+<p>My kids <em>love</em> <a href="http://orteil.dashnet.org/cookieclicker/">Cookie Clicker</a>. And, only because they can&#8217;t stop talking about it, I checked it out. My 14 year-old told me he&#8217;s figured out how to cheat at the game so bad that he basically ends up with &#8220;infinity c
+]]>
+<![CDATA[
+ookies&#8221;.</p> <p>Wait, let&#8217;s step back. The game is weird and silly and involves clicking a big cookie to get more cookies. You can buy upgrades like cursors that click cookies for you, grandmas who bake cookies for you, all the way up to time machines that go back in time and bring you cookies that before they&#8217;ve been eaten &#8211; and you purchase all of these with cookies that you, wait for it, click.</p> <p>Back to the cheating. The game is all done in Javascript and all done in the browser, so it&#8217;s really fun to mess around with things and cheat &#8211; and learn some Javascript fundamentals while you&#8217;re at it (and even some <a href="http://jquery.com">jQuery</a>). There&#8217;s even <a href="http://cookieclicker.wikia.com/wiki/Cheating">a page on the Cookie Clicker Wiki dedicated to cheating</a>. You&#8217;ll notice that all of those cheats are Javascript functions. Here&#8217;s one I wrote that is a little longer than the one on the wiki, but makes me happy because it&#8217;s all object-notated and is called cookie_monster:</p> <pre><code>var cookie_monster = { gimme:function() { Game.ClickCookie(); setTimeout(&quot;cookie_monster.gimme()&quot;, 1); } }; cookie_monster.gimme();</code></pre> <p>That&#8217;s all broken out so you can see what it&#8217;s doing. Here it is if you want to just cut and paste it into the Javascript Console in Chrome (the browser made for cheating):</p> <pre><code>var cookie_monster = {gimme:function() { Game.ClickCookie(); setTimeout(&quot;cookie_monster.gimme()&quot;, 1); }}; cookie_monster.gimme()</code></pre> <p>Basically, the <code>cookie_monster.gimme()</code> method clicks the cookie and then sets a timer to run itself again in 1 millisecond. That ends up being a <em>lot of cookies</em> per second. It also unlocks a bunch of achievements, which is cool (but still cheating).</p> <p>And here it is as a bookmarklet: <a href="javascript:var cookie_monster = {gimme:function() { Game.ClickCookie(); Game.ClickCookie(); setTimeout('cookie_monster.gimme()', 1); }}; cookie_monster.gimme();">Cookie Monster</a>. Just drag that to your bookmarks bar, and click on it while you&#8217;re in Cookie Clicker and the cheat will magically start running. I love Javascript.</p> <p>I&#8217;ve been talking to both of my kids now about Javascript and how we can more efficiently cheat at the game, which I think is <em>awesome</em>. If I can get them to think of programming as a game, then I&#8217;ve already won.</p>
+]]>
+</content:encoded>
+<wfw:commentRss>
+http://lawver.net/2013/10/learn-to-code-by-cheating/feed/
+</wfw:commentRss>
+<slash:comments>0</slash:comments>
+</item>
+<item>
+<title>Making an Iced Latte With an Aeropress</title>
+<link>
+http://lawver.net/2013/09/making-an-iced-latte-with-an-aeropress/
+</link>
+<comments>
+http://lawver.net/2013/09/making-an-iced-latte-with-an-aeropress/#comments
+</comments>
+<pubDate>Tue, 03 Sep 2013 12:11:05 +0000</pubDate>
+<dc:creator>
+<![CDATA[ Kevin Lawver ]]>
+</dc:creator>
+<category>
+<![CDATA[ cooking ]]>
+</category>
+<category>
+<![CDATA[ aeropress ]]>
+</category>
+<category>
+<![CDATA[ coffee ]]>
+</category>
+<category>
+<![CDATA[ icedlatte ]]>
+</category>
+<guid isPermaLink="false">http://lawver.net/?p=2753</guid>
+<description>
+<![CDATA[
+I used to have access to a lovely espresso machine, which which we made many iced lattes. Now that I work from home, reproducing the silky luxury of those iced lattes has been a little difficult. Until now. I use an Aeropress for almost all of my coffee needs and have finally figured out how &#8230; <a href="http://lawver.net/2013/09/making-an-iced-latte-with-an-aeropress/" class="more-link">Continue reading <span class="screen-reader-text">Making an Iced Latte With an Aeropress</span></a>
+]]>
+</description>
+<content:encoded>
+<![CDATA[
+<p>I used to have access to a lovely espresso machine, which which we <a href="http://railsmachine.com/articles/2012/06/04/iced-lattes-and-a-campfire-bot">made many iced lattes</a>. Now that I work from home, reproducing the silky luxury of those iced lattes has been a little difficult. Until now. I use an Aeropress for almost all of my coffee needs and have finally figured out how to make a solid iced latte:</p> <ul> <li>Put the Aeropress plunger on the 3 line of the aeropress. You don&#8217;t want too much coffee or you&#8217;ll never get it cold. Plus, you want it to be <em>strong</em>.</li> <li>1 scoop of finely ground coffee (if you can&#8217;t do fine ground, that&#8217;s OK) in the aeropress</li> <li>Pour almost boiling water over the grounds, stir, then set your timer for <strong>4 minutes</strong>.</li> <li>Fill your cocktail shaker with four ice cubes, sugar and milk or half and half to taste (I&#8217;d guess no more than 1/3 cup of liquid).</li> <li>When the timer goes off, press the coffee into the cocktail shaker, shake the hell out of it and pour.</li> <li>Enjoy.</li> </ul> <p>It&#8217;s simple and makes a really good iced latte. And remember, the better your beans, the better your cup (I get all my coffee from <a href="http://cuptocupcoffee.com/">Cup to Cup</a>).</p> <p>Happy coffee-ing!</p>
+]]>
+</content:encoded>
+<wfw:commentRss>
+http://lawver.net/2013/09/making-an-iced-latte-with-an-aeropress/feed/
+</wfw:commentRss>
+<slash:comments>0</slash:comments>
+</item>
+<item>
+<title>Hi There</title>
+<link>http://lawver.net/2013/05/hi-there/</link>
+<comments>http://lawver.net/2013/05/hi-there/#comments</comments>
+<pubDate>Thu, 09 May 2013 21:16:12 +0000</pubDate>
+<dc:creator>
+<![CDATA[ Kevin Lawver ]]>
+</dc:creator>
+<category>
+<![CDATA[ daily tedium ]]>
+</category>
+<guid isPermaLink="false">http://lawver.net/?p=2740</guid>
+<description>
+<![CDATA[
+The longer I see that almost-year-old post sitting there on the homepage, the more daunting it gets to think of something worthy of kicking it out of the top spot. I&#8217;ve been blogging a lot (ok, not a lot) on the Rails Machine blog, but work, the Creative Coast and other stuff seems to take &#8230; <a href="http://lawver.net/2013/05/hi-there/" class="more-link">Continue reading <span class="screen-reader-text">Hi There</span></a>
+]]>
+</description>
+<content:encoded>
+<![CDATA[
+<p>The longer I see that almost-year-old post sitting there on the homepage, the more daunting it gets to think of something worthy of kicking it out of the top spot.</p> <p>I&#8217;ve been blogging a lot (ok, not a lot) on the <a href="http://railsmachine.com/articles">Rails Machine blog</a>, but work, the <a href="http://creativecoast.org">Creative Coast</a> and other stuff seems to take up all the time I would otherwise spend writing.</p> <p>In fact, I have to write a column for the paper that&#8217;s due on Monday, so I guess I should go do that instead of writing this drivel.</p>
+]]>
+</content:encoded>
+<wfw:commentRss>http://lawver.net/2013/05/hi-there/feed/</wfw:commentRss>
+<slash:comments>0</slash:comments>
+</item>
+<item>
+<title>My TEDxCreativeCoast Talk is Up!</title>
+<link>
+http://lawver.net/2012/06/my-tedxcreativecoast-talk-is-up/
+</link>
+<comments>
+http://lawver.net/2012/06/my-tedxcreativecoast-talk-is-up/#comments
+</comments>
+<pubDate>Fri, 01 Jun 2012 17:08:39 +0000</pubDate>
+<dc:creator>
+<![CDATA[ Kevin Lawver ]]>
+</dc:creator>
+<category>
+<![CDATA[ development ]]>
+</category>
+<guid isPermaLink="false">http://lawver.net/?p=2729</guid>
+<description>
+<![CDATA[
+[hang2column width=&#8221;560&#8243; height=&#8221;315&#8243;] That&#8217;s my talk on learning to think like a hacker from this year&#8217;s TEDxCreativeCoast. It was the most nervous I&#8217;ve ever been before a talk and the most pressure I&#8217;ve ever felt for a talk. I think it turned out OK&#8230; I&#8217;d love to hear your thoughts on it! [/hang2column]
+]]>
+</description>
+<content:encoded>
+<![CDATA[
+<p>[hang2column width=&#8221;560&#8243; height=&#8221;315&#8243;]<iframe width="560" height="315" src="http://www.youtube.com/embed/8Lk93yi0vw8" frameborder="0" allowfullscreen></iframe></p> <p>That&#8217;s my talk on learning to think like a hacker from this year&#8217;s <a href="http://tedxcreativecoast.com"><span class="caps">TED</span>xCreativeCoast</a>. It was the most nervous I&#8217;ve ever been before a talk and the most pressure I&#8217;ve ever felt for a talk. I think it turned out <span class="caps">OK&#8230;</span></p> <p>I&#8217;d love to hear your thoughts on it!</p> <p>[/hang2column]</p>
+]]>
+</content:encoded>
+<wfw:commentRss>
+http://lawver.net/2012/06/my-tedxcreativecoast-talk-is-up/feed/
+</wfw:commentRss>
+<slash:comments>1</slash:comments>
+</item>
+<item>
+<title>My Most Played Songs</title>
+<link>http://lawver.net/2012/03/my-most-played-songs/</link>
+<comments>
+http://lawver.net/2012/03/my-most-played-songs/#comments
+</comments>
+<pubDate>Mon, 26 Mar 2012 18:49:04 +0000</pubDate>
+<dc:creator>
+<![CDATA[ Kevin Lawver ]]>
+</dc:creator>
+<category>
+<![CDATA[ music ]]>
+</category>
+<guid isPermaLink="false">http://lawver.net/?p=2726</guid>
+<description>
+<![CDATA[
+I can&#8217;t remember when I did it, but a few years ago I reset all the play counts in iTunes. That was years ago at this point, and since switching to Rdio for most of my music listening, I only use iTunes for things I can&#8217;t get on Rdio, live shows from nyctaper or podcasts. &#8230; <a href="http://lawver.net/2012/03/my-most-played-songs/" class="more-link">Continue reading <span class="screen-reader-text">My Most Played Songs</span></a>
+]]>
+</description>
+<content:encoded>
+<![CDATA[
+<p>I can&#8217;t remember when I did it, but a few years ago I reset all the play counts in iTunes. That was <em>years</em> ago at this point, and since switching to <a href="http://rdio.com">Rdio</a> for most of my music listening, I only use iTunes for things I can&#8217;t get on Rdio, live shows from <a href="http://nyctaper.com">nyctaper</a> or podcasts. I was looking for something new to choose for <a href="http://thisismyjam.com/kplawver">This is My Jam</a>, and decided I&#8217;d just pick the song I&#8217;ve played the most in iTunes. And <em>then</em> I decided I might as well share my &#8220;historical&#8221; top ten songs as shown by what I <em>actually</em> listened to. So, here they are, followed by the number of times I&#8217;ve listened to them according to iTunes. Excuse the profanity, that is really the name of the band (and they&#8217;re awesome):</p> <ol> <li><strong>Lovely Allen</strong> by <strong>Holy Fuck</strong> &#8211; 153</li> <li><strong>Pullin Punches</strong> by <strong>Arkells</strong> &#8211; 150</li> <li><strong>Fresh Blood</strong> by <strong>Eels</strong> &#8211; 137</li> <li><strong>Working Full-Time</strong> by <strong>The Constantines</strong> &#8211; 122</li> <li><strong>Happy</strong> by <strong>The Wrens</strong> &#8211; 113</li> <li><strong>Your Hand in Mine</strong> by <strong>Explosions in the Sky</strong> &#8211; 111</li> <li><strong>Dance Like a Monkey</strong> by <strong>New York Dolls</strong> &#8211; 106 (this one&#8217;s skewed because I accidentally left it on repeat one day where I had a lot of meetings and I forgot to pause it &#8211; still, it&#8217;s a great song. <a href="http://www.youtube.com/watch?v=8_XEiV-l97o">The video is killer</a>.)</li> <li><strong>I Play My Kazoo</strong> by <strong>Grand Analog</strong> &#8211; 102</li> <li><strong>Soon Enough</strong> by <strong>The Constantines</strong> &#8211; 101</li> <li><strong>Violet Light</strong> by <strong>Raised by Swans</strong> &#8211; 101</li> </ol> <p>I also went ahead and created a playlist in Rdio with <a href="http://www.trnsmit.com/">Trnsmit</a> with <a href="http://rd.io/x/Qi9IzSg">my top 100 songs</a> (Rdio doesn&#8217;t have all of them, so it&#8217;ll be less than 100, but whatever).</p> <p>It&#8217;s funny that the bands I consider my all-time favorites don&#8217;t show up until farther down the list (*Massive Attack* shows up at number 13 with <strong>Paradise Circus</strong> and <strong>Morphine</strong> doesn&#8217;t show up until number 26 with <strong>Come Along</strong>). <strong>The Constantines</strong> show up a <em>ton</em> in the top 50, but that&#8217;s mostly because my &#8220;Best of the Constantines&#8221; playlist was a constant companion for almost a year when I had to crank out code on a deadline. </p> <p>Oh well, there you go, my top 10 songs played in iTunes. I wish I could do the same in Rdio. I have a feeling it would be dominated by <strong>Library Voices</strong>.</p> <p>And yes, this post is instead of writing one about my time at SxSW this year or my new job at <a href="http://www.railsmachine.com">Rails Machine</a> that I start in a few weeks. I might write those blog posts later.</p>
+]]>
+</content:encoded>
+<wfw:commentRss>
+http://lawver.net/2012/03/my-most-played-songs/feed/
+</wfw:commentRss>
+<slash:comments>0</slash:comments>
+</item>
+</channel>
+</rss>
