@@ -1,0 +1,421 @@
+Home Archive
+DEVOPS WEEKLY
+A weekly slice of devops news
+15,648 subscribers
+powered by MailChimp
+ISSUE 204 - 30TH NOVEMBER
+
+I had huge fun at the New Directions in Operating Systems conference this week and have included a few related posts and presentations in this issue. Small, super-niche, community conferences like this, Monitorama and Configuration Management Camp feel like great places to learn new things - thanks to all the people who organise them.
+
+SPONSOR
+
+Devops Weekly is sponsored by Brightbox Cloud - serious UK-based cloud infrastructure from only 1.5p per hour (£10.95/month)
+
+Start your £20 free trial now: http://brightbox.com/devopsweekly
+
+SPONSORED EVENT
+
+Webinar: Accelerating SDN Applications with Open Source Network Overlays
+
+By defining the configuration of the network versus of a specific device, OpenContrail + Cumulus Linux can simplify & automate network orchestration. Register now to learn more.
+
+http://go.cumulusnetworks.com/opencontrail-devops
+
+NEWS
+
+If you missed out on New Directions in Operating systems this week this epic post of notes from all of the talks should be of interest. Lots of talk of rump kernels, unikernels, configuration management and more.
+
+http://www.syslog.cl.cam.ac.uk/2014/11/25/new-directions-in-operating-systems/
+
+My talk at New Directions in Operating Systems, all about the history and possible future of configuration management as both a discipline and an evolving tool set.
+
+https://speakerdeck.com/garethr/configuration-management-for-future-operating-systems
+
+One of the common threads at New Directions in Operating Systems was a move towards a different mental model of the operating system. This talk did a good job of articulating some of the reasons why.
+
+http://www.slideshare.net/alexisrichardson/71-myths-of-the-new-os
+
+Details from a recent survey of the state of monitoring have started to be published, with some interesting results. So far you can have a look at the demographics of respondents, and see what tools people are using today.
+
+http://kartar.net/2014/11/monitoring-survey---demographics/ http://kartar.net/2014/11/monitoring-survey---tools/
+
+A write-up of some observations from last weeks New Directions in Operating Systems conference. Lots of links for further reading on a bunch of the subjects covered.
+
+http://markosrendell.wordpress.com/2014/11/29/new-directions-in-operating-systems-designer-cows-and-intensive-farming/
+
+Kubernetes is powerful but developing quickly, so keeping up can be a challenge. This post does a good job of explaining all of the main concepts along with examples in one place.
+
+http://www.infoq.com/articles/scaling-docker-with-kubernetes
+
+A multi-post tutorial covering building a docker based infrastructure using Puppet, Foreman, Packer and Crane. The details about using the different tools together makes for an interesting read.
+
+http://www.ivoverberk.nl/docker-tutorial-puppet-and-the-foreman/
+
+An interesting post about using littlechef in a non-centralised workflow for Chef. Examples of custom interfaces and integrating with Jenkins.
+
+http://riltsken.github.io/devops/workingwithteams/continuousdelivery/infrastructure/2014/11/21/team-workflow-using-littlechef-to-manage-infrastructure.html
+
+Some observations and lots of links to interesting tools, all from talks at the recent LISA conference.
+
+http://www.standalone-sysadmin.com/blog/2014/11/new-technologies-to-study-from-lisa14/
+
+All the interest in operations and infrastructure management has resulted in an explosion of tools, and keeping up can be difficult. Enter this simple directory, maintained on GitHub.
+
+http://www.devopsbookmarks.com/ https://github.com/devopsbookmarks/devopsbookmarks.com
+
+JOBS
+
+Sainsbury’s Digital are looking for a DevOps Engineer in Farringdon, Central London. You’ll maintain and enhance technical infrastructure, contribute to the architecture of the software stack and automate testing, deployment and provisioning using tools like Python, PHP, RabbitMQ, Varnish, Ansible and Elasticsearch. This is an opportunity to ensure that DevOps is right at the heart of our development process.
+
+http://isw.changeworknow.co.uk/sainsburys/vms/e/store_support_centre/positions/a4M0NG-MHkgBjy8LefNXOy
+
+EVENTS
+
+The Office of the CIO of the United States Patent and Trademark Office is hosting its first Devops meetup on January 14th. Experts from the private and public sectors will come together to talk about all things Devops and Government.
+
+http://www.eventbrite.com/e/uspto-devops-meetup-2015-tickets-13874680543
+
+TOOLS
+
+Charted is a way of sharing graphs. I’m a big fan of using monitoring tools for business metrics, but exposing that data can be hard. Charted looks a great bridge to get other people interested in data.
+
+https://medium.com/data-lab/introducing-charted-15161b2cd71e
+
+Kindly sponsored by 
+
+Built using Ruby and Mailchimp. Hosted on Heroku. Inspired by Ruby Weekly. Looked after by Gareth Rushgrove.
+
+
+Home Archive
+DEVOPS WEEKLY
+A weekly slice of devops news
+15,648 subscribers
+powered by MailChimp
+ISSUE 198 - 19TH OCTOBER
+
+I normally read the weeks links and pick out a theme, maybe something that a number of the posts or presentations discuss. This week the topics are all over the place, another example of how broad the devops banner is at this point.
+
+SPONSOR
+
+Devops Weekly is sponsored by Brightbox Cloud - serious UK-based cloud infrastructure from only 1.5p per hour (£10.95/month)
+
+Start your £20 free trial now: http://brightbox.com/devopsweekly
+
+NEWS
+
+A great post putting all things containers in a historical context. Not just where they came from, but what’s happening to drive innovation in cgroups and namespaces, and why containers on virtual machines might be the future for most.
+
+http://thenewstack.io/containers-whats-new-what-isnt-what-matters/
+
+A nice run through of various ways of having nodes in a cluster share information. Compares Chef search with PuppetDB and demonstrates confd and etcd.
+
+http://www.slideshare.net/m_richardson/node-collaboration-sharing-information-between-your-systems
+
+A thorough example of managing Windows with Chef and DSC, and then testing with Pester (a Powershell test framework) and Test Kitchen.
+
+http://www.hurryupandwait.io/blog/configure-and-test-windows-infrastructure-using-powershell-technologies-dsc-and-pester-running-from-chef-and-test-kitchen
+
+A good post on the ongoing enterprise devops debate, making the point that talking about application and practices that work is a good thing, and doing so with empathy for all involved is important.
+
+http://blog.ingineering.it/post/100180001529/we-get-the-enterprise-devops-we-deserve
+
+If you’re running Kafka then this next post, about load testing Kafka on AWS, will definitely be essential reading. Even if you’re not the details and approach to load testing are interesting.
+
+http://grey-boundary.com/load-testing-apache-kafka-on-aws/
+
+Wiring well behaved unix command line tools doesn’t take lots of work, but you do need to know the basics. This presentation demonstrates catching signals, dealing with stdin and stdout and more using Ruby.
+
+http://www.slideshare.net/bigfishdesign/well-behaved-unix
+
+A good set of notes from this weeks Chef Community Summit in London, highlighting some of the topics discussed including config management and containers, orchestration and versioning resources.
+
+http://www.flexiant.com/2014/10/16/flexiant-notes-from-chef-community-summit-london/
+
+A story explaining why small incremental releases make for a safer approach to releasing web based software.
+
+http://blog.opbeat.com/posts/staying-sane-with-small-incremental-releases/
+
+EVENTS
+
+Config Management Camp is happening again next year on the 2nd and 3rd of February in Gent, just after FOSDEM. The call for proposals is open now and will close on the 1st of December.
+
+http://cfgmgmtcamp.eu/
+
+TOOLS
+
+Boxstarter is a tool for bootstrapping a new Windows machine. It makes heavy use of Choclately packages and provides a number of very simple ways of getting started. Great documentation too.
+
+http://boxstarter.org/
+
+Carbonate is a set of command line tools for managing a Graphite cluster. It packages tools for listing and finding metrics, synchronizing metrics between nodes, backfilling whisper data from other files and more.
+
+https://github.com/jssjr/carbonate
+
+If you’re building software on GitHub and want an easy way of managing GitHub releases then look no further than this simple command line tool. The main features are around setting release metadata and uploading binary files as part of the release.
+
+https://github.com/aktau/github-release
+
+Kindly sponsored by 
+
+Built using Ruby and Mailchimp. Hosted on Heroku. Inspired by Ruby Weekly. Looked after by Gareth Rushgrove.
+
+
+Home Archive
+DEVOPS WEEKLY
+A weekly slice of devops news
+15,648 subscribers
+powered by MailChimp
+ISSUE 197 - 12TH OCTOBER
+
+Some great posts this week on teams, both structuring development and operations teams, communications and working together. It’s also only 2 weeks until the 5th anniversary Devopsdays event, hopefully see lots of you there.
+
+SPONSOR
+
+Devops Weekly is sponsored by Brightbox Cloud - serious UK-based cloud infrastructure from only 1.5p per hour (£10.95/month)
+
+Start your £20 free trial now: http://brightbox.com/devopsweekly
+
+NEWS
+
+A great practical post on team organisation, bridging both development and operations work, as well as planned and ad-hoc tasks. Lots of good points and observations, if you’re organising or working on a team you should read this.
+
+http://theagileadmin.com/2014/09/30/scrum-for-operations-just-add-devops/
+
+A Gartner piece entitled Seven Steps to Start Your DevOps Initiative. Lots of good observations in here, and the key challenges picked out are interesting if you’re talking with your CIO or similar level execs.
+
+http://www.gartner.com/technology/reprints.do?ct=140925&id=1-22AAXZR&st=sb
+
+An interesting talk from the recent Devopsdays Chicago, entitled Rules of DevOops, all about making mistakes. Lots of observations about how teams work and communicate, and why abstractions can hurt team work.
+
+https://www.youtube.com/watch?v=eq1v_3dQC00
+
+A nice quick example of writing a test to confirm you’ve really fixed a bug, this test checks for a recent bash vulnerability using ServerSpec.
+
+https://shk.io/2014/10/09/security-verifications-serverspec/
+
+Lots of people are building microservice based systems at the moment so this post, with a number of techniques that worked and a few that didn’t, should be useful for anyone getting started.
+
+http://techblog.realestate.com.au/a-microservices-implementation-retrospective/
+
+A quick presentation with 4 strategies for avoiding scheduled maintenance. Good tips if you’re regularly taking evenings to deploy your services.
+
+https://speakerdeck.com/dougbarth/living-without-scheduled-maintenance
+
+A great looking presentation all about how to ship software faster. Lots of good examples and code samples on a/b testing, giving feedback, collecting metrics, code ownership and more.
+
+http://zachholman.com/talk/move-fast-break-nothing/
+
+CoreOS takes a number of different approaches to common system management tasks and, as such, how to design a product cluster compared to a traditional OS changes. This guide covers common cluster architectures for different size installs.
+
+https://coreos.com/docs/cluster-management/setup/cluster-architectures/
+
+A comprehensive write-up of the recent PuppetConf event, with detailed notes about the various keynotes and some of the track sessions, and links to all the videos from each day.
+
+http://tech.opentable.co.uk/blog/2014/10/06/puppetconf-2014-part-1/ http://tech.opentable.co.uk/blog/2014/10/06/puppetconf-2014-part-2/ http://tech.opentable.co.uk/blog/2014/10/06/puppetconf-2014-part-3/
+
+A great slide deck about the evolution of Chef within an infrastructure. Talks about growing the node count over time, as well as showing various workflow tools and monitoring integration.
+
+http://www.slideshare.net/jonlives/chef-at-etsy
+
+JOBS
+
+Apply Once & Get 5-15 DevOps Job Offers from 1,000+ of the best tech companies in SF, NYC, LA, & SEA. You’ll see salary & equity up front and you’ll decide who you want to talk to. Join today.
+
+http://be.hired.com/devopsweekly1
+
+EVENTS
+
+Devopsdays Berlin is coming up on the 23rd and 24th of October (just before the 5th anniversary event in Belgium) and has a pretty impressive looking line-up of talks on community, security and what devops means for the traditional sysadmin.
+
+http://devopsdays.org/events/2014-berlin/program/
+
+TOOLS
+
+Taste tester is another workflow tool for Chef, it launches a Chef-Zero instance locally and then checks what changes would happen to a remote machine with your local changes.
+
+https://github.com/facebook/taste-tester
+
+A set of scripts useful for hardening a typical Linux system. Partly useful for learning about a good practices, I’d also love to see this converted into various config management code flavours.
+
+https://github.com/marshyski/quick-secure
+
+Kindly sponsored by 
+
+Built using Ruby and Mailchimp. Hosted on Heroku. Inspired by Ruby Weekly. Looked after by Gareth Rushgrove.
+
+
+Home Archive
+DEVOPS WEEKLY
+A weekly slice of devops news
+15,648 subscribers
+powered by MailChimp
+ISSUE 196 - 5TH OCTOBER
+
+I talked at PupppetConf about how I think we’re still edging slowly towards infrastructure as code. A few of the links before point in that direction, with automated test suites for black box services, interactive ways of exploring infrastructure and tools for learning to code. More of the same please.
+
+SPONSOR
+
+Devops Weekly is sponsored by Brightbox Cloud - serious UK-based cloud infrastructure from only 1.5p per hour (£10.95/month)
+
+Start your £20 free trial now: http://brightbox.com/devopsweekly
+
+NEWS
+
+A good write-up from my old colleagues about how they approached writing acceptance tests for a Content Distribution Network. Black box testing like this feels useful for a bunch of different services or devices.
+
+https://gdstechnology.blog.gov.uk/2014/10/01/cdn-acceptance-testing/
+
+Devops owes lots to the discussion of agile that came before it, one of those discussions being around the importance of cross functional teams. This post stresses why having a real team is so important.
+
+http://www.leadingagile.com/2014/10/teams-101/
+
+This next post talks about the importance to code review, and about making that easier with pre-checks like static analysis. The reason I like it is because it shows how simple this can be in trivial cases. Easy to forget when moving to describing infrastructure as code.
+
+http://infiniteundo.com/post/22292945729/one-line-of-code
+
+If you’ve managed a reasonable sized AWS infrastructure you’ll probably have spent at least some time looking for an instance based on incomplete data. Skew sounds an interesting solution, I’m particularly interested in seeing the IPython Notebook integration.
+
+http://lexical.scopely.com/2014/09/29/skew/
+
+It’s been a week or since PuppetConf 2014 now so most of the slides are now available online. That’s nearly 100 presentations to keep you busy.
+
+http://www.slideshare.net/PuppetLabs/tag/puppetconf-2014
+
+Quite a few nice points in this interview with RedHat CEO putting the business spin on devops. Interesting following the CEO/CIO discussions around something that is so community driven.
+
+http://www.networkworld.com/article/2688724/opensource-subnet/red-hat-ceo-whitehurst-on-devops-apps-and-infrastructure.html
+
+A follow up to a post I included a few weeks back, all about why leading people and management could be for you. Managers play a big part in how culture changes in most organisations and it’s often ignored by technology driven employees.
+
+http://fractio.nl/2014/10/03/why-do-you-want-to-lead-people/
+
+JOBS
+
+DEVELOPER COMMITS CODE WITHOUT TESTS. YOU WILL NEVER GUESS WHAT HAPPENS NEXT!
+
+https://www.spotify.com/se/jobs/view/omi2Yfwo/
+
+Akvo.org is a non-profit operating from Amsterdam. We work on increasing visibility for charities and their work, and provide survey and monitoring software in developing countries, especially in Africa and India. We’re searching for an infrastructure engineer ideally versed in Puppet, but in general what we want is someone who knows how to automate provisioning and build continuous delivery pipelines. Experience with Python or Java/Clojure is a plus. The main office is in Amsterdam, but the developers mostly work remotely; we’d prefer someone to be in one of our hubs (Amsterdam, Stockholm or Helsinki) but remote ±2 hours of CEST can work too.
+
+carl@akvo.org
+
+EVENTS
+
+Join us in Seattle, WA, November 9-14, 2014, for LISA14.
+
+The LISA conference has long served as the annual vendor-neutral meeting place for the wider system administration community. Recognizing the overlap and differences between traditional and modern IT operations and engineering, the highly-curated 6-day program offers training, workshops, invited talks, panels, paper presentations, and networking opportunities around 5 key topics: Systems Engineering, Security, Culture, DevOps, and Monitoring/Metrics. Don’t miss the chance to be a part of this unique career-building journey.
+
+Register by October 20 and save: https://www.usenix.org/lisa14/dow
+
+TOOLS
+
+Chef Guard looks like a useful tool, specifically it protects your Chef server from untested and uncommitted cookbooks. Several useful features, including emailing of configuration change diffs and validation of changes.
+
+http://xanzy.io/projects/chef-guard/introduction/overview.html
+
+Learning new tools and languages is always hard so anything that makes it easier it a good idea. Chef Koans takes inspiration from other similar projects and applies it to Chef, a good starting point if you’ve done similar learning exercises before.
+
+https://github.com/leftathome/chef-koans
+
+Zonify is a set of command line tools for managing Route53 DNS for an AWS infrastructure. It intelligently uses tags and other metadata to automatically create the associated DNS records.
+
+https://github.com/airbnb/zonify
+
+Kindly sponsored by 
+
+Built using Ruby and Mailchimp. Hosted on Heroku. Inspired by Ruby Weekly. Looked after by Gareth Rushgrove.
+
+
+
+Home Archive
+DEVOPS WEEKLY
+A weekly slice of devops news
+15,648 subscribers
+powered by MailChimp
+ISSUE 195 - 28TH SEPTEMBER
+
+So, with newly released major security vulnerabilities in bash, AWS rebooting and lots of people at Puppet Conf, Icinga Camp and Surge it’s been a quite week.
+
+SPONSOR
+
+Devops Weekly is sponsored by Brightbox Cloud - serious UK-based cloud infrastructure from only 1.5p per hour (£10.95/month)
+
+Start your £20 free trial now: http://brightbox.com/devopsweekly
+
+SPONSORED EVENT
+
+O'Reilly Velocity is coming on 17-19 November in Barcelona. You can enter to win a free conference pass by tweeting an answer to any of the following questions and using the hashtag #velocitytrivia, or by emailing gareth@morethanseven.net.
+
+Name the keynote talk whose speaker works at a subsidiary of the Financial Times in London.
+Which Velocity Event gives you 5 mins. to get on stage and talk your latest passion, idea or hack?
+What session can I attend to learn if TLS is fast yet?
+http://velocityconf.com/
+
+The deadline for entry is Wednesday 1st October 2014 at 1am GMT. One winner will be chosen at random.
+
+NEWS
+
+If you ever attend, or plan to attend, an industry event you should read this post. Heck, if you plan to leave your house your should read it. Our amazing community has a problem with diversity and anything you can do to make it more welcoming has to be a good thing.
+
+http://bridgetkromhout.com/blog/2014/09/22/four-interactions-that-could-have-gone-better/
+
+By now everyone will probably be aware, but just in case, Bash has a serious vulnerability that probably affects you. This is the best write-up I’ve found which quickly explains how this works and how it could be exploited.
+
+http://www.troyhunt.com/2014/09/everything-you-need-to-know-about.html
+
+My talk from the recent Puppet Conf (disclaimer: I’m now a Puppet Labs employee), all about high level infrastructure testing. Includes a few experiments writing tests against infrastructure APIs and talks a bit about policy driven development.
+
+https://speakerdeck.com/garethr/continuously-testing-infrastructure
+
+A full chapter on infrastructure automation from the Practicing Ruby book, stepping through the why alongside step-by-step examples of Chef recipes.
+
+https://practicingruby.com/articles/infrastructure-automation
+
+I’ve made this point before but not so eloquently. If you’re writing Puppet, Chef or similar DSL based tool then you’re a programmer.
+
+http://cwebber.net/blog/2014/09/26/i-am-not-a-coder/
+
+Syslog is great, except when the standard isn’t actually adhered to. This next post shows how to deal with this situation using logstash and grok filters.
+
+http://kartar.net/2014/09/when-logstash-and-syslog-go-wrong/
+
+At a previous job I a bit of desktop work, so this article about applying modern automation and devops approaches to large scale desktop systems was interesting. Lots of good points and ideas.
+
+http://www.brianmadden.com/blogs/guestbloggers/archive/2014/09/16/is-it-time-for-enterprise-it-to-use-devops-for-smart-automation-of-virtual-desktop-delivery.aspx
+
+A good talk and slide deck which quickly explains the state of networking for docker containers.
+
+http://blog.thestateofme.com/2014/09/12/docker-networking/
+
+It’s difficult to get people to work effectively together if they have never met, so for distributed organisations organising an internal conference is a nice idea. This post covers a few gotchas and an experience report from a recent effort.
+
+http://betsandbits.com/2014/09/23/doccon1-organising-a-conference/
+
+JOBS
+
+How much do companies pay for DevOps engineers? Find out in a Hired auction where 1,000+ companies in SF, NYC, LA, & SEA send you offers with salary & equity up front. Join today!
+
+http://be.hired.com/devopsweekly5
+
+TOOLS
+
+The new puppet server was released at Puppet Conf. Puppet server is a drop-in replacement for the current puppet master with some pretty big performance and scalability improvements.
+
+https://github.com/puppetlabs/puppet-server
+
+If you’re using Route53 DNS then Roadworker should be of interest. It’s a Ruby based DSL for creating zones and records. Good examples too.
+
+https://github.com/winebarrel/roadworker
+
+If like me you’re maintaining a number of puppet modules you probably have an occasional day when you try and remember to update lots of static files (Rakefile, .travis.yml, Gemfile, etc.) across all of them. Modulesync looks a nice solution to that issue.
+
+https://github.com/puppetlabs/modulesync
+
+Kindly sponsored by 
+
+Built using Ruby and Mailchimp. Hosted on Heroku. Inspired by Ruby Weekly. Looked after by Gareth Rushgrove.
+
+
+
+
+
