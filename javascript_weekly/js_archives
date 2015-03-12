@@ -1,0 +1,893 @@
+JavaScript Weekly
+ARCHIVES| SEARCH| LATEST ISSUE| RSS
+  Search
+  Archives
+  Issue #222 — March 6, 2015
+  Angular 2: Now to be Built on TypeScript
+  A JS Framework On Every Table: Framework Overload?
+  NativeScript Released: Mobile Native App Development with JavaScript and CSS
+  Issue #221 — February 27, 2015
+  The Path to Parallel JavaScript
+  Iterables and Iterators in ECMAScript 6
+  AngularJS Application Development Online Workshop
+  Issue #220 — February 20, 2015
+  React.js Conf Round-up 2015: 20 Sessions to Watch
+  Terrible JavaScript Mistakes to Avoid with a Static Code Analyzer
+  A 90 Minute Overview of ECMAScript 6 (video)
+  Issue #219 — February 12, 2015
+  Variables and Scoping in ECMAScript 6
+  React Canvas: High Performance Canvas Rendering for React Components
+  Building an Angular2 Todo App: A First Look At Angular2 App Development [video]
+  Issue #218 — February 6, 2015
+  Google SoundScript: Faster Future JavaScript OOP
+  Expert ES6: An Exercise-Based ES6 Course on the Web
+  UI Prototyping with FramerJS Online/In-Person Workshop
+  Issue #217 — January 30, 2015
+  React Native: For Building Native Mobile Apps with React
+  New String Features in ECMAScript 6
+  Node.js Application Hosting Simplified – Get Started For Free
+  Issue #216 — January 23, 2015
+  ECMAScript 2015: The New Name for ECMAScript 6/ES6?
+  Elevator Saga: A JavaScript Elevator Programming Game
+  Publish/Subscribe Quick Start Guide
+  Issue #215 — January 16, 2015
+  One JavaScript: Avoiding Versioning in ECMAScript 6
+  Eric Elliott's Essential JavaScript Links
+  The React Quick Start Guide
+  Issue #214 — January 9, 2015
+  6to5: Turn ES6+ Code into Readable Vanilla ES5
+  JSPM + SystemJS - A New In-Browser Workflow [video]
+  Cross-Tab Communication with localStorage
+  Issue #213 — January 2, 2015
+  ECMAScript 6: New OOP Features Besides Classes
+  Generation JavaScript
+  New Course on JS.Next: ES6
+  Issue #212 — December 19, 2014
+  Introducing The JavaScript Internationalization API
+  JavaScript Application Architecture On The Road To 2015
+  The First Online Immersive JavaScript Coding School
+  Issue #211 — December 12, 2014
+  Meta Programming with ECMAScript 6 Proxies
+  AngularJS Performance in Large Applications
+  What Is The Flux Application Architecture?
+  Issue #210 — December 5, 2014
+  The State of JavaScript in 2015
+  io.js: A Node and npm-compatible JavaScript Platform
+  The DailyJS JavaScript Developer Survey 2014
+  Issue #209 — November 28, 2014
+  Understanding ECMAScript 6
+  Getting Started with React and JSX
+  Regulex：A JavaScript Regular Expression Visualizer
+  Issue #208 — November 21, 2014
+  Flow: A Static JavaScript Type Checker from Facebook
+  ES6: The Future Is Now (video)
+  Using ngAria: The Accessibility Module in Angular 1.3
+  Issue #207 — November 14, 2014
+  Angular Air: A Live Video Show, Tonight with the Angular Core Team
+  Latest 'Edge' Build of IE Now Supports Numerous ECMAScript 6 Features
+  Easy Data Binding with Vanilla JS
+  Issue #206 — November 7, 2014
+  All About Angular 2.0
+  7 Principles of Rich Web Applications
+  A Hacker's Guide to Neural Networks
+  Issue #205 — October 31, 2014
+  jQuery 3.0: The Next Generations
+  Angular 2 Core: A Look Forward to Angular 2.0
+  Meteor 1.0 Released: The JavaScript Web App Development Framework
+  Issue #204 — October 24, 2014
+  ECMAScript 6 Returns JavaScript to Original Intent
+  AtScript Primer: Angular's Idea for an Enhanced JavaScript
+  Building Single Page Apps using Web Components
+  Issue #203 — October 17, 2014
+  AngularJS 1.3.0 Released
+  Nunjucks: A Rich Templating Language for JavaScript from Mozilla
+  An Introduction to D3.js
+  Issue #202 — October 10, 2014
+  Learning Much JavaScript From One Line of Code
+  The 10 Top Mistakes Angular.js Developers Make
+  JavaScript Beyond the Web in 2014
+  Issue #201 — October 3, 2014
+  5 Array Methods That You Should Be Using Now
+  AngularJS Tutorial: A Comprehensive 10,000 Word Guide
+  Building OS X Apps with JavaScript
+  Issue #200 — September 26, 2014
+  Douglas Crockford: The Better Parts (video)
+  JavaScript for OS X Automation by Example
+  Potential jQuery.com Security Issues
+  Issue #199 — September 19, 2014
+  The Significance of JavaScript for Automation in OS X Yosemite
+  Building A Sleep Tracker For Your Dog using Tessel and Twilio
+  Frontend Masters: New Course on Choosing a JavaScript Framework
+  Issue #198 — September 12, 2014
+  ECMAScript 6 Modules: The Final Syntax
+  hello.js: A Client-Side JavaScript SDK for Authenticating with OAuth2
+  angular-data: Data Store and Caching for Angular.js
+  Issue #197 — September 5, 2014
+  Brendan Eich on the Origin of JavaScript [podcast with written transcript]
+  Pioneer.js: A New JavaScript Integration Testing DSL
+  JS.Next: ES6 Online/In-Person Workshop
+  Issue #196 — August 29, 2014
+  JavaScript Memory Management Masterclass (slidedeck)
+  How to Make JavaScript and the Web a Good Compilation Target
+  Frontend Masters: New Hardcore Functional Programming in JavaScript Course
+  Issue #195 — August 22, 2014
+  Duo: A Next Generation Package Manager for the Front End
+  Cheerp: A C++ to JavaScript Compiler for The Web
+  How to Debug an AngularJS App from the Console
+  Issue #194 — August 15, 2014
+  An Opinionated Rundown of JS Frameworks
+  PojoViz: A JavaScript Object Visualization Tool
+  JS.Next: ES6 Online/In-Person Workshop
+  Issue #193 — August 8, 2014
+  The State of the Componentised Web
+  Speeding Up AngularJS with Simple Optimizations
+  JavaScript and V8 TurboFan: V8's New Experimental Compiler
+  Issue #192 — August 1, 2014
+  2nd Edition of Eloquent JavaScript Now Available Online
+  AngularJS Unit Testing - For Real, Though
+  Announcing JS Error Reporting + AJAX Timing in New Relic
+  Issue #191 — July 25, 2014
+  Why JavaScript Developers Should Get Excited About Object.observe
+  The Refactoring Tales - Practical Examples of Refactoring JavaScript
+  Create UIs with Grid & Chart Components for AngularJS
+  Issue #190 — July 18, 2014
+  18 Surprises From Reading jQuery's Source Code
+  Leverage Scope Creep: An In-depth Tutorial on Angular.js Scope
+  Create High Performance Mobile UIs with Famo.us
+  Issue #189 — July 11, 2014
+  An Interview with David Herman about ECMAScript 6
+  Breach: A JavaScript-based Web Browser
+  Frontend Masters: 2-Day, Online/In-Person Workshop Introducing Web Development
+  Issue #188 — July 4, 2014
+  A Guide to JavaScript Modules
+  Don’t Use jquery-latest.js
+  Runtime.JS: A Kernel Built on the V8 JavaScript Engine
+  Issue #187 — June 27, 2014
+  Human JavaScript: Practical Patterns for Simple, Powerful Javascript Apps
+  Polymer and Web Components Change Everything You Know About Web Development
+  fast.js: Faster Reimplementations of Several Builtin Native JavaScript Functions
+  Issue #186 — June 20, 2014
+  12 Videos from JSConf 2014 (So Far)
+  Favoring Curry: How Currying Leads to More Elegant Code
+  The Microsoft Research JavaScript Cryptography Library
+  Issue #185 — June 13, 2014
+  ECMAScript 6 Schedule Changes
+  JSConf EU 2014 Call for Speakers
+  Easy 3D-Accelerated Games in A Browser with JavaScript and WebGL using Three.js or Babylon.js
+  Issue #184 — June 6, 2014
+  Create a TV Show Tracker using AngularJS, Node.js and MongoDB
+  A First-Person Engine in 265 Lines of JavaScript
+  iOS 8 WebKit Changes Finally Allow All Apps to Have The Same JavaScript Performance As Safari
+  Issue #183 — May 30, 2014
+  Introducing Socket.IO 1.0: A Leap Forward for the Real-Time Communications Library
+  Checking Whether A Value Is An Integer in JavaScript
+  One Year of Open-Source React
+  Issue #182 — May 23, 2014
+  Data-Binding Revolutions with Object.observe()
+  24 Talk Videos from EmpireJS
+  Flo: A New Live Coding Tool for Chrome by Facebook
+  Issue #181 — May 16, 2014
+  Working With Intl: ECMAScript's New Internationalization API
+  Jest: JavaScript Unit Testing and Auto Mocking on top of Jasmine
+  jsfmt: Like Go's gofmt, but for JavaScript
+  Issue #180 — May 9, 2014
+  Let’s Make a Bubble Map
+  Prototypes, Scopes, and Performance: What You Need to Know
+  Quill: An Open Source Rich Text Editor with an API
+  Issue #179 — May 2, 2014
+  JavaScript’s 'this': How It Works and Where It Can Trip You Up
+  Edge.js Brings Node and .NET Together On Three Platforms
+  Check out DB Weekly, our general database newsletter
+  Issue #178 — April 25, 2014
+  Andreas Gal Becomes Mozilla's New CTO
+  Creating Defensive Objects with ES6 Proxies
+  Traces of Errors: Getting Better JavaScript Stacktraces (video)
+  Issue #177 — April 18, 2014
+  The Birth and Death of JavaScript
+  PourOver: Fast Filtering and Sorting of Huge Collections of Items
+  Kendo UI Core: An Open Source Distribution of Kendo UI
+  Issue #176 — April 11, 2014
+  ExpressJS 4.0 Released: The Minimal Node Webapp Framework
+  Understanding Scope in JavaScript (video)
+  jQuery UK 2014 – May 16, 2014 – Tickets Still Available
+  Issue #175 — April 4, 2014
+  Brendan Eich, The 'Father of JavaScript', Steps Down as Mozilla CEO
+  TypeScript 1.0 Released
+  Debugging Asynchronous JavaScript with Chrome DevTools
+  Issue #174 — March 28, 2014
+  Meteor 0.8.0 Released: Introduces a New Next-Gen Live Templating Engine
+  Don't Make JavaScript Equality Look Worse Than It Is
+  Bringing SIMD to JavaScript
+  Issue #173 — March 21, 2014
+  Speaking JavaScript
+  FutureJS: A Futuristic JavaScript Conference (May 1-3 - Barcelona, Spain)
+  What’s Coming in Angular 2.0, and Why
+  Issue #172 — March 14, 2014
+  Brendan Eich: 'JavaScript Taking Both the High and Low Roads'
+  Lesser-Known JavaScript Debugging Techniques
+  In Defense of Frameworks: Why Ember Is Proud To Be One
+  Issue #171 — March 7, 2014
+  Two Overviews of ECMAScript 6 Features
+  Custom Elements for Custom Applications – Web Components with Mozilla’s Brick and X-Tag
+  Grunt And Gulp Tasks For Performance Optimization
+  Issue #170 — February 28, 2014
+  Rewriting A WebApp With ECMAScript 6
+  How to Build a Remote Desktop (VNC) Client with AngularJS and Yeoman
+  Why Nodejitsu Are Registering the 'npm' Trademark
+  Issue #169 — February 21, 2014
+  ES6 Fiddle: An Online Sandbox for ECMAScript 6
+  QuakeJS: A Port of a Modern Quake 3 Client to JavaScript
+  Ember.JS – What It Is and Why We Need to Care About It
+  Issue #168 — February 14, 2014
+  The JS1k 2014 Contest is Underway
+  localForage: Offline Storage in the Browser, Improved
+  Call For Proposals Open for CSS Dev Conf 2014 (Oct 13-15, New Orleans)
+  Issue #167 — February 7, 2014
+  Writing Your First Sweet.js Macro
+  JavaScript Puzzlers: A 37 Question JavaScript Quiz
+  FutureJS: A Futuristic JavaScript Conference (May 1-3 - Barcelona, Spain)
+  Issue #166 — January 31, 2014
+  JavaScriptOO.com: For Finding What JavaScript Libraries Meet Your Needs
+  You Might Not Need jQuery
+  Building Rich Web UIs with Knockout
+  Issue #165 — January 24, 2014
+  jQuery 1.11 and 2.1 Released
+  Static Showdown: A Hackathon for Static Web Apps (February 8-9)
+  Node v0.10.25 (Stable)
+  Issue #164 — January 17, 2014
+  The Next Phase of Node.js and the Road Ahead
+  jQuery Conference 2014 - February 12-13 - San Diego, California
+  The State of jQuery 2014
+  Issue #163 — January 10, 2014
+  Frida: Inject JavaScript to Explore Native Apps On Windows, Mac, Linux and iOS
+  Stop Writing JavaScript Compilers! Make Macros Instead
+  jQuery UK 2014 – May 16, 2014 – Early Bird Tickets On Sale
+  Issue #162 — January 3, 2014
+  jQuery Mobile 1.4.0 Released
+  45 Useful JavaScript Tips, Tricks and Best Practices
+  EmberConf: March 25-26, Portland, OR
+  Issue #161 — December 20, 2013
+  The Essentials of Writing High Quality JavaScript
+  JavaScript Promises: There and Back Again
+  AngularJS 1.3: New Release Approaches
+  Issue #160 — December 13, 2013
+  DailyJS's JavaScript Developer Survey 2013 Results
+  First Commercial 3D Web Game Powered By asm.js Unveiled
+  Dynatable: HTML5+JSON Interactive Table jQuery Plugin
+  Issue #159 — December 6, 2013
+  Happy 18th Birthday JavaScript
+  Ember 1.2.0 and 1.3 Beta Released
+  Thinking About ECMAScript 5 Parts
+  Issue #158 — November 29, 2013
+  JSConf US 2014's Call for Speakers
+  List.js: Adds Search, Sort, Filters, Flexibility to Tables, Lists and More
+  Take the DailyJS JavaScript Developer Survey 2013
+  Issue #157 — November 22, 2013
+  22 Talk Videos from CascadiaJS Conference 2013 Now Online
+  jQuery 1.11.0 and 2.1.0 Beta 2 Released
+  What’s New in Node.js v0.12: Cluster Round-Robin Load Balancing
+  Issue #156 — November 15, 2013
+  AngularJS 1.2.0 'timely-delivery' Released
+  JSConf.Asia: Nov 28–29 2013, Manila, Philippines
+  Dart 1.0: A Stable SDK for Structured Web Apps
+  Issue #155 — November 8, 2013
+  Octane 2.0: Google's JavaScript Benchmark Suite
+  Now Available: ESLint 0.1.0
+  Telerik’s Kendo UI, now with responsive UI for modern apps
+  Issue #154 — November 1, 2013
+  The Online JavaScript Summit 2013 - November 19-21, 2013
+  Retire.js: Identify JS Libraries with Known Vulnerabilities in Your App
+  Get Up And Running With Grunt
+  Issue #153 — October 25, 2013
+  Phusion Passenger’s Node.js Support Has Been Open Sourced
+  Code Climate: Automated Code Reviews of JavaScript Code
+  Offline.js: Handle Your Users Losing Their Internet Connection Like A Pro
+  Issue #152 — October 18, 2013
+  Virtual x86: x86 Emulator Written in JavaScript
+  Google V8 JavaScript Engine Gains Optimizations to Compete with Firefox's 'use asm' Pragma
+  JSChannel Conference (Bengaluru, India - November 16)
+  Issue #151 — October 11, 2013
+  Brendan Eich on JS Responsibilities
+  Building Web Apps With Yeoman And Polymer
+  Ecma Publishes 1st Edition of ECMA-404 Standard for JSON
+  Issue #150 — October 4, 2013
+  You Can't JavaScript Under Pressure
+  Reg Braithwaite Makes 'JavaScript Allongé' Book Free
+  JSHint (the JavaScript Code Quality Tool) Has a New Design
+  Issue #149 — September 27, 2013
+  BrowserSwarm: Automated JavaScript Testing Across Browsers
+  8 Talks from Reject.JS 2013
+  Your mobile website shouldn't look like an 8th grade HTML5 project.
+  Issue #148 — September 20, 2013
+  27 Presentations from JSConf US 2013
+  Higgs: An Interesting New JavaScript VM and Compiler
+  Your mobile website shouldn't look like an 8th grade HTML5 project.
+  Issue #147 — September 13, 2013
+  The O'Reilly Fluent Conference 2014 Call for Proposals Is Open
+  A Crowd-Funded Reboot for Eloquent JavaScript
+  Your mobile website shouldn't look like an 8th grade HTML5 project.
+  Issue #146 — September 6, 2013
+  Ember 1.0 Released
+  Node Weekly Issue 2: Generators, Async Patterns, Home Automation and More
+  Frontend Masters: Upcoming LIVE Online/In-Person Workshop on Data Visualizations with D3.js by Ian Johnson
+  Issue #145 — August 30, 2013
+  The Road to Ember.js 1.0: Final Release This Weekend?
+  Yeoman 1.0 Released: Modern Workflows for Modern Webapps
+  ECMAScript Internationalization API
+  Issue #144 — August 23, 2013
+  Brendan Eich: Toward A Language-Neutral Browser VM
+  JS Bin’s 5th Birthday & News
+  Bootstrap 3 Released: The Popular Front-End Framework Goes Mobile-First
+  Issue #143 — August 16, 2013
+  BackboneConf 2013 Videos Are Online
+  The Future of Programming in Node.js
+  js13kGames HTML5 Game Development Competition Launches
+  Issue #142 — August 9, 2013
+  jQuery Boilerplate: Jump-Starting jQuery Plugin Development
+  A MongoDB Online Course for Node.js Developers
+  7 JavaScript Basics Many Developers Aren’t Using (Properly)
+  Issue #141 — August 2, 2013
+  8 JSConf US 2013 Videos Released
+  Writing a Command Line Utility using Node
+  ECMAScript 6 Modules: The Future Is Now
+  Issue #140 — July 26, 2013
+  Bower 1.0.0 Released
+  Object Playground: The Definitive Guide to Object-Oriented JavaScript
+  In Defense of JavaScript’s Constructors
+  Issue #139 — July 19, 2013
+  ES6 Modules, Build Tools and Browser App Delivery
+  JavaScript Powered Arduino with Johnny-Five
+  Open Cloud Academy: Bridging the Cloud Computing Skills Gap
+  Issue #138 — July 11, 2013
+  DevDocs: All-In-One API Documentation Reader
+  So You Wanna Build a Crowdfunding Site? (In Node.js)
+  npmsearch: Search The npm Registry for Node.js Packages
+  Issue #137 — July 5, 2013
+  jQuery (Conference) Heading to Austin - September 10/11
+  jQuery 1.10.2 and 2.0.3 Released (Bug Fix Releases)
+  Five Patterns to Help You Tame Asynchronous JavaScript
+  Issue #136 — June 28, 2013
+  An Overview of ECMAScript 6
+  eval() Isn’t Evil, Just Misunderstood
+  Building Apps For Firefox OS, Chrome OS And The Web
+  Issue #135 — June 21, 2013
+  Use Forensics and Detective Work to Solve JavaScript Performance Mysteries
+  Announcing TypeScript 0.9
+  JS.everywhere(2013) - San Francisco, October 25
+  Issue #134 — June 14, 2013
+  The Extensible Web Manifesto
+  JSDB.io: A Directory of JavaScript Libraries
+  Refactoring DOM-Heavy JavaScript
+  Issue #133 — June 7, 2013
+  How JavaScript Compilers Work
+  React: A JavaScript Library for Building User Interfaces
+  Rich data for JavaScript Apps is a Breeze
+  Issue #132 — May 31, 2013
+  jQuery 1.10.0 and 2.0.1 Released
+  Brendan Eich: 'JavaScript at 18: Legal to Gamble'
+  New Relic is hard at work on their Node.js Agent
+  Issue #131 — May 24, 2013
+  Discover Meteor: Learn How to Build Real-time JavaScript Web Apps
+  A Deep Dive Into Require.js
+  gif.js: A JavaScript GIF Encoder That Runs in The Browser
+  Issue #130 — May 17, 2013
+  Polymer: Google’s New Framework Built On Web Components
+  JavaScript Regular Expression Enlightenment
+  ECMAScript 6 Draft Spec Revision 15 Now Available
+  Issue #129 — May 10, 2013
+  20% Off for O'Reilly Fluent 2013, May 28-30 in San Francisco
+  JS1K Spring 2013 Winners Announced
+  jQuery Conference Portland 2013 (June 13-14)
+  Issue #128 — May 3, 2013
+  Epic Games' Unreal 3 'Citadel' Demo
+  Author In ES6, Transpile To ES5 As A Build-step: Workflow For Grunt
+  Intern: A Next-Generation JavaScript Testing Stack
+  Issue #127 — April 26, 2013
+  Nicholas C. Zakas On “Maintainable JavaScript”
+  Meet The Connect Framework
+  jQuery 1.9 and 2.0: Present and Future
+  Issue #126 — April 19, 2013
+  jQuery 2.0 Released
+  Package Managers: An Introductory Guide For The Uninitiated Front-End Developer
+  Will JavaScript Take Over the Programming World?
+  Issue #125 — April 12, 2013
+  The Baseline JS Compiler Has Landed in Firefox
+  Angry Birds of JavaScript: Patterns
+  jQuery 2.0 Beta 3 Released
+  Issue #124 — April 5, 2013
+  Asm.js: The JavaScript Compile Target
+  JSLint Error Explanations
+  Rich data for JavaScript Apps is a Breeze
+  Issue #123 — March 29, 2013
+  Mozilla and Epic Games Bringing Unreal Engine 3 to the Web
+  O'Reilly's Free Online JavaScript Conference Next Week
+  Are you a mobile web developer?
+  Issue #122 — March 22, 2013
+  Backbone.js 1.0 Released
+  Kickstarter Project: “JS Git” by Tim Caswell
+  asm.js in Firefox Nightly
+  Issue #121 — March 15, 2013
+  Node v0.10.0 (Stable) Released
+  New Working Draft of ECMAScript 6 Available
+  Are you a mobile web developer?
+  Issue #120 — March 8, 2013
+  Zepto 1.0 Released
+  jQuery 2.0 Beta 2
+  WebStorm 6.0 Released: More for Languages That Compile to JavaScript
+  Issue #119 — March 1, 2013
+  Secrets of Awesome JavaScript API Design
+  The jQuery Learning Center
+  Try jQuery: An Interactive jQuery Learning Experience
+  Issue #118 — February 22, 2013
+  asm.js: A Highly Optimizable, Low-Level Subset of JavaScript
+  jQuery Mobile 1.3.0 Released
+  Qt GUI Toolkit Ported to JavaScript via Emscripten
+  Issue #117 — February 15, 2013
+  TodoMVC 1.1 Released: Now Includes Kendo UI, TypeScript, Dart, Thorax and More
+  Game Closure Open Sources Its Battle Tested Mobile Gamedev 'DevKit'
+  Now out: 'Learning from jQuery: Building on Core Skills' by Callum Macrae
+  Issue #116 — February 8, 2013
+  Writing Modular Frontend Components in 2013
+  JavaScript Now The First-Class Language for GNOME App Development
+  JS1K Spring 2013 Competition Launches
+  Issue #115 — February 1, 2013
+  Flight: A Lightweight, Component-Based JavaScript Framework from Twitter
+  30 Days to Learn jQuery: A Video Course
+  Building Blocks: Reusable UI Components for Firefox OS
+  Issue #114 — January 25, 2013
+  O'Reilly Fluent Program Unveiled and Registration Opened (SF, May 28-30)
+  ECMAScript 6: My Favorite Things
+  jQueryTO 2013 – Toronto’s jQuery Conference (March 2–3)
+  Issue #113 — January 18, 2013
+  Announcing the jQuery Plugin Registry
+  jQuery 1.9 Final, jQuery 2.0 Beta, and Migrate Final Released
+  Node 0.8.17 (stable) Released
+  Issue #112 — January 11, 2013
+  jQuery 1.9 RC1 and jQuery Migrate RC1 Released
+  PhoneGap 2.3.0 Released
+  jsDay 2013: May 15–16, Verona, Italy
+  Issue #111 — January 4, 2013
+  Results of the 2012 DailyJS JavaScript Developer Survey
+  Web Platform Doc Sprint Berlin, February 8–9, 2013
+  ScriptCraft: Program Minecraft in JavaScript
+  Issue #110 — December 21, 2012
+  jQuery 1.9 Beta 1 Released
+  DailyJS: JavaScript Developer Survey 2012
+  Rich data for JavaScript Apps is a Breeze
+  Issue #109 — December 14, 2012
+  Backbone.js 0.9.9 Released
+  WebRTC Hits Firefox, Android and iOS
+  ECMA-402: ECMAScript Internationalization API Specification
+  Issue #108 — December 7, 2012
+  Amazon Web Services SDK for Node.js – Now Available in Preview Form
+  Notes on the TC39 Meetings in November 2012
+  Dr. Axel Rauschmayer is JavaScript Weekly's New Editor
+  Issue #107 — November 30, 2012
+  Oracle Proposes New Native JavaScript Engine for OpenJDK
+  Major New Revision (Rev 12) of the ECMAScript 6 Draft Spec is Out
+  The Node Toolbox: Categorized Index of Node (npm) Modules
+  Issue #106 — November 23, 2012
+  A Few New Things Coming To JavaScript
+  The State of Backbone.js
+  YUIConf 2012 Recap and Keynote Video
+  Issue #105 — November 16, 2012
+  JavaScript APIs You've Never Heard Of (and some you have)
+  Compiling to JavaScript: What, Why, and How?
+  jQuery 1.8.3 Released
+  Issue #104 — November 9, 2012
+  Writing Fast, Memory-Efficient JavaScript
+  Ratchet: iPhone App Prototyping with HTML, CSS and JS
+  The Mobile JavaScript Summit (November 12, 2012)
+  Issue #103 — November 2, 2012
+  Programming Windows 8 Apps with HTML, CSS, and JavaScript
+  The 2012 Node.js Knockout: A 48 Hour Node.js Online Hackathon
+  Ready, Steady, Grow: Use New Relic and we'll donate $10 to Movember
+  Issue #102 — October 26, 2012
+  The (Online) JavaScript Summit 2012 - November 13-15, 2012
+  Jster: A New Catalog of JavaScript Libraries
+  O'Reilly Fluent CFP Open (May 28-30, 2013, San Francisco, CA)
+  Issue #101 — October 19, 2012
+  Meteor 0.5.0 Released: Authentication, User Accounts and a New Screencast
+  JavaScript Library Poll Results: What Libraries Are We Using?
+  Celebrating Dart's Birthday with the First Release of the Dart SDK
+  Issue #100 — October 12, 2012
+  Harmony of Dreams Come True (New Stuff in ES6)
+  jQuery UI 1.9.0 Released
+  YUIConf 2012 Early Bird Registration Open (Santa Clara, Nov 14-15)
+  Issue #99 — October 5, 2012
+  TypeScript: Microsoft's New Language that Compiles to JavaScript
+  NetBeans 7.3 Beta Gains JavaScript Development Features
+  jQuery Mobile 1.2.0 Released
+  Issue #98 — September 28, 2012
+  Latest Draft Specification for ES.next (ECMAScript 6) Released
+  Underscore.js 1.4.0 Released: Many New Functions
+  JavasScript-Conference, October 15-16 in Dusseldorf, Germany
+  Issue #97 — September 21, 2012
+  Smashing Node.JS Book Now Available
+  Announcing YUI 3.7.0
+  jQueryUK 2013 Call For Proposals Open Till October 11 (Oxford, England)
+  Issue #96 — September 14, 2012
+  Yeoman Released: A Robust Toolset for Webapp Developers
+  IonMonkey JavaScript JIT Now Enabled in Firefox 18
+  WebMatrix 2 Released: Microsoft's Free Webdev Tool
+  Issue #95 — September 7, 2012
+  jQuery Mobile 1.2 Beta Released
+  JS.everywhere: A JS Conference for Business (October 26-27, San Jose)
+  Node Dublin: A Node.JS Conference in Dublin This October
+  Issue #94 — August 31, 2012
+  Effective JavaScript: A Forthcoming Book by David Herman
+  jQuery 1.8.1 Released
+  AppFog Acquires Nodester to Round Out Node.js Hosting Technology Offerings
+  Issue #93 — August 24, 2012
+  CKEditor 4 Beta Released
+  Node 0.8.8 (stable) Released
+  Octane: Google's JavaScript Benchmark Suite for the Modern Web
+  Issue #92 — August 17, 2012
+  Dojo Toolkit 1.8 Released
+  ECMAScript Internationalization API Specification Updates
+  A Gentler Introduction to the ECMAScript Internationalization API
+  Issue #91 — August 10, 2012
+  jQuery 1.8 Released
+  Prototype 1.7.1 Released
+  Ember.js 1.0 Prerelease Now Available
+  Issue #90 — August 3, 2012
+  Announcing jQuery Mobile 1.2.0 Alpha
+  Yahoo! Releases YUI 3.6.0
+  Issue #5 of Adobe's Appliness Webdev Magazine Out Now
+  Issue #89 — July 27, 2012
+  Adobe PhoneGap 2.0 Released, 'A Vastly Improved Developer Experience'
+  jQuery 1.8 Release Candidate 1 Released
+  Meteor's New $11.2 Million Development Budget
+  Issue #88 — July 20, 2012
+  JavaScript Technology Web Usage Statistics for July 2012
+  Enyo 2 Framework Leaves Beta, Goes Full Release
+  Node.js 0.8.3 (stable) Released
+  Issue #87 — July 13, 2012
+  jQuery 1.8 Beta 2 Released
+  John Resig's Status Update for 'Secrets of the JavaScript Ninja'
+  jQuery Conference Toronto Coming in 2013; Register Your Interest Now
+  Issue #86 — July 6, 2012
+  jQuery 1.9 and 2.0: The TL;DR Edition
+  Breaking the JavaScript Speed Limit with V8 (so good I linked it twice)
+  First Production Release of Wakanda Released
+  Issue #85 — June 29, 2012
+  Node 0.8 Released: Harder, Better, Faster, Stronger
+  jQuery 2.0 (Coming in 2013) To Drop Support for IE 6, 7 and 8
+  Cloud9 Launches Its Redesigned, Collaborative Online JavaScript IDE
+  Issue #84 — June 22, 2012
+  Google Releases AngularJS 1.0: A Framework for 'Better Web Templating'
+  Third-Party JavaScript - The Book
+  Node.js Blog Gets A Redesign; 0.8 Due Any Moment Now..
+  Issue #83 — June 15, 2012
+  Node 0.7.10 Released; 0.8 Promised Next Week
+  JSConf.au 2012's Call For Speakers
+  DotJS: The Largest JavaScript Conference in France (November 30, Paris)
+  Issue #82 — June 8, 2012
+  Adobe Releases Issue #3 of Appliness, Its Free Webdev Magazine
+  Firefox 13 Released: Gets Experimental ECMAScript 6 Map and Set Support
+  Jasmine 1.2 Released
+  Issue #81 — Jun 1, 2012
+  JavaScript at 17: Brendan Eich's Fluent Keynote
+  DemoJS: A Browser Demoparty in Paris (June 29-30)
+  Spain.js - A Summer JavaScript Conference in Spain
+  Issue #80 — May 25, 2012
+  ECMAScript 5.1 Specification Now Officially Available in HTML
+  Let's Code: Test-Driven Javascript by James Shore (on Kickstarter)
+  Async JavaScript by Trevor Burnham Now on Amazon (Print and Kindle)
+  Issue #79 — May 18, 2012
+  The JavaScript Hotline: (877) 300-2187
+  npm Registry Hits 10,000 Packages
+  OpenShift: A New Cloud Hosting Platform for Node
+  Issue #78 — May 11, 2012
+  New ECMAScript 6 Spec Draft Available
+  ES.Next / ES6 Needs You!
+  Node.js HTTP Server Security Vulnerability: Upgrade to 0.6.17
+  Issue #77 — May 4, 2012
+  Better Code Optimization Decisions for Google V8
+  An Open Source 'Metro'-style Theme for jQuery Mobile
+  Node 0.6.16 (stable) Released
+  Issue #76 — April 27, 2012
+  Yahoo!'s Doug Crockford on JavaScript
+  5 Things They Told You Not to Use in JavaScript
+  Mixins and Constructor Functions
+  Issue #75 — April 20, 2012
+  jQuery Mobile 1.1 Released
+  Free Webcast: How to Build a Chat Room in JavaScript
+  Cody Lindley Releases 'JavaScript Enlightenment' for Free
+  Issue #74 — April 13, 2012
+  CoffeeScript 1.3.x Released
+  PhoneGap 1.6 Released
+  mag.js: A New, German-Language Online JavaScript Magazine
+  Issue #73 — April 6, 2012
+  The Winner of JS1K 2012: 'Autumn Evening'
+  Yahoo! Open Sources Mojito, Its JS Framework
+  Enjoy Hacker News? Check out Hacker Newsletter
+  Issue #72 — March 30, 2012
+  Consensus Reached to Bring Arrow-Notated Functions to ECMAScript 6
+  JS.everywhere(2012): Call For Speakers Open Till June 29
+  Javascript University: Free JS Workshops in San Diego
+  Issue #71 — March 23, 2012
+  jQuery San Francisco Conference, June 28-29 2012
+  jQuery 1.7.2 Released
+  O'Reilly's Free JavaScript Summit/Unconference in San Francisco on March 29
+  Issue #70 — March 16, 2012
+  jQuery 1.7.2 RC1 Released
+  Node 0.6.13 (stable) and 0.7.6 (unstable) Released
+  Stricter Equality in JavaScript.next
+  Issue #69 — March 9, 2012
+  Early O'Reilly Fluent Registration and Program Goes Live
+  jQuery Gets Its Own Foundation
+  NotConf: A (Free) JSConf Pre-Conference
+  Issue #68 — March 2, 2012
+  Tower.js: Rails-Style Full Stack Webapp Framework for Node and the Browser
+  Node 0.7.5 (unstable): Fixes + Startup Speed Improvements
+  Announcing jQuery Mobile 1.1.0 RC1
+  Issue #67 — February 24, 2012
+  Giles Bowkett on Making Music with JavaScript (repeat from headlines)
+  WebKit's JavaScript Engine Gets a New Layer for Extra Speed
+  Mozilla Labs Apps: Submissions Opening Soon
+  Issue #66 — February 17, 2012
+  Essential JavaScript Design Patterns for Beginners
+  The 2012 JS1K Contest - Do Your Best in 1KB of JavaScript
+  Want to Help Write the 'jQuery Mobile Cookbook'?
+  Issue #65 — February 10, 2012
+  Nodebits - A New Node.js Focused Blog
+  Remy Sharp's New Node and HTML5 Course (in the UK)
+  EnvJasmine 1.7 Released (Headless JS Testing Tool)
+  Issue #64 — February 3, 2012
+  Node.js Creator Ryan Dahl Steps Down
+  O'Reilly Publishes 'The Little Book on CoffeeScript'
+  Cloud9 Now Supports Windows Azure for Deployment
+  Issue #63 — January 27, 2012
+  Submit a Talk for O'Reilly's New JavaScript Conference
+  InfoWorld's Interview with Node.js Creator, Ryan Dahl
+  Austin King's Take on NodeSummit
+  Issue #62 — January 20, 2012
+  The V8 Myth: Why JavaScript is not a Worthy Competitor
+  Node 0.7.0 Released (A New, Unstable Branch)
+  jsday 2012: A JavaScript conference in Verona, Italy (May 16-17)
+  Issue #61 — January 13, 2012
+  Fluent 2012 CFP Open: O'Reilly's New JavaScript Conference (San Francisco, May 29-31)
+  Node v0.6.7 Released
+  JSConf US 2012's Site Goes Live (Scottsdale, AZ, Apr 2-3)
+  Issue #60 — January 6, 2012
+  Node.js's Standard Library Ported to CoffeeScript.. In A Single Pull Request
+  WebStorm 3.0: A JavaScript IDE from JetBrains
+  Douglas Crockford Shows Off 'JSDev'
+  Issue #59 — December 30, 2011
+  JSConf US 2012 Dates and Call For Speakers Announced
+  The Rise and Rise of JavaScript
+  Using jQuery's .pushStack() for Reusable DOM Traversing Methods
+  Issue #58 — December 23, 2011
+  Node Summit - San Francisco, January 24-25, 2012
+  Backbone Fundamentals: CC-licensed Book about Backbone.js
+  Public Beta of Wakanda (JS IDE + Framework) Available
+  Issue #57 — December 16, 2011
+  DailyJS's JavaScript Developer Survey 2011 Results
+  Node.js's Official Web Site Gets a Redesign
+  Qooxdoo 1.6 Released: A Flexible RIA Framework
+  Issue #56 — December 9, 2011
+  The DailyJS JavaScript Developer Survey 2011
+  What Is Happening To The jQuery Plugins Site?
+  Announcing Amber.js: Yehuda Katz's New SproutCore-Inspired Framework
+  Issue #55 — December 2, 2011
+  JavaScript Libraries Now Used by 50% of Top 1m Web Sites
+  Internet Explorer 10 Platform Preview 4 Gets JavaScript Typed Arrays
+  UtahJS JavaScript Conference 2011: Call for Papers 2011
+  Issue #54 — November 25, 2011
+  Node 0.6.3 Released: Now Includes NPM
+  jQuery 1.7.1 Released
+  The jQuery Team Wants Your jQuery 1.8 Ideas
+  Issue #53 — November 18, 2011
+  jQuery Mobile 1.0 Released
+  Cappuccino 0.9.5 Released
+  Node v0.6.1: A Minor Update
+  Issue #52 — November 11, 2011
+  Node v0.6.0 Released: A New Stable Branch of Node
+  O'Reilly's Big JavaScript Sale (For 1 Week?)
+  Adobe Turns Away from Mobile Flash to Focus on HTML5 (Good News for JS!)
+  Issue #51 — November 4, 2011
+  jQuery 1.7 Released
+  The jQuery Version and Plugin Usage Report 2011
+  Backbone Screencasts: A 2-Pack Deal Ending November 8th
+  Issue #50 — October 28, 2011
+  jQuery 1.7 Release Candidate 1 Released
+  jQuery Announces the jQuery Standards Team
+  Wakanda: Open Source Business Webapp Development in the Cloud
+  Issue #49 — October 21, 2011
+  JavaScriptMVC 3.2.0 Released
+  RequireJS 1.0 Released
+  Backbone.js Quickly: Building a Backbone Start to Finish in a Screencast
+  Issue #48 — October 14, 2011
+  jQuery 1.7 Beta 2 Released
+  JavaScript++: New Language Offering JavaScript (Plus A Bit More)
+  Google's Unveils New 'Dart' Language
+  Issue #47 — October 7, 2011
+  jQuery Mobile 1.0 Release Candidate 1 Released
+  JavaScript Enlightenment by Cody Lindley: A Celebrated JS E-Book
+  Future-Proofing Your JavaScript Applications for Improved Scalability
+  Issue #46 — September 30, 2011
+  jQuery 1.7 Beta 1 Released
+  Addy Osmani's jQuery 1.7 Beta Release Run-Through
+  Google Releases Google JS Test
+  Issue #45 — September 23, 2011
+  Mulberry: A Development Framework for Native JS and HTML5 Mobile Apps
+  V8's 1GB Memory Limit (And New Changes to Its GC)
+  Firefox 6 No Longer Runs JavaScript URLs in Address Bar in Page's Context
+  Issue #44 — September 16, 2011
+  jQuery 1.6.4 Released (A Minor Release)
+  Node v0.5.6 (unstable) Released
+  Node v0.4.12 (Stable) Released
+  Issue #43 — September 9, 2011
+  Announcing The Node.js Knockout Winners
+  jQuery Mobile Beta 3 Released
+  Qt Is Likely To Use The V8 JavaScript Engine in Future
+  Issue #42 — September 2, 2011
+  jQuery 1.6.3 Released
+  Firefox 9's JavaScript Performance Will Be Improved by 20-30%
+  JavaScript Web Applications by Alex MacCaw
+  Issue #41 — August 26, 2011
+  Fabric.JS 0.5 Released: Now Bringing Canvas Fun to Node
+  Building Web Applications with Backbone.js (Training in Boston, MA)
+  Addy Osmani's Lessons From A JavaScript Code Review
+  Issue #40 — August 19, 2011
+  Announcing YUI (Yahoo UI) 3.4.0 and the new YUILibrary.com
+  Sign up for HTML5 Weekly, My New HTML5 and Browser Tech Newsletter
+  Codecademy: An Interesting Way to Learn JavaScript
+  Issue #39 — August 12, 2011
+  Node Up: A Podcast About Node.js
+  Brendan Eich on the Recent ECMAScript 6 Standard Meetings
+  Node v0.5.4 Released
+  Issue #38 — August 5, 2011
+  jQuery Mobile Beta 2 Released
+  Google Working on 'Web Intents' To Tie Web Apps Together
+  Building Mobile JavaScript WebApps With Backbone.js & jQuery: Part I
+  Issue #37 — July 29, 2011
+  The CoffeeScript Book by Trevor Burnham - Now In Print
+  PhoneGap 1.0 Launches Today
+  JavaScript Enlightenment E-book by Cody Lindley Released
+  Issue #36 — July 22, 2011
+  Peepcode Released 'Backbone.js Basics' Screencast
+  Selenium 2.1 Released
+  DOMBuilder 2.0 Released: Easier Dynamic HTML Creation from JS
+  Issue #35 — July 15, 2011
+  Selenium 2.0 Released
+  Node Knockout 2011 Registration Opened
+  Node v0.5.1 Released
+  Issue #34 — July 8, 2011
+  pdf.js Reaches Its First Milestone: A Pixel-Perfect Render
+  Node 0.5.0 (Unstable) Released
+  How to Create a Game Character with HTML5 and JavaScript
+  Issue #33 — July 1, 2011
+  New Version of JSBin.com Now Live
+  ISO/IEC and Ecma Intl Ratify ECMAScript 5.1 Specification
+  jQuery 1.6.2 Released
+  Issue #32 — June 24, 2011
+  iOS 5 Brings Nitro JavaScript Speed to Home Screen Webapps
+  Brendan Eich Passes Over SpiderMonkey Ownership
+  2011 Boston jQuery Conference - October 1-2, 2011
+  Issue #31 — June 17, 2011
+  The Little Book on CoffeeScript
+  jQuery 1.6.2 RC 1 Released
+  Jeremy Ashkenas and Brendan Eich on JavaScript's Future
+  Issue #30 — June 10, 2011
+  CouchDB 1.1.0 Released
+  O'Reilly's 50% Off JavaScript Books Sale
+  Chrome Developer Tools: Put JavaScript Memory Under Control
+  Issue #29 — June 3, 2011
+  Book Review of 'JavaScript: The Definitive Guide, 6th Edition'
+  JS2Coffee: A JavaScript to CoffeeScript Compiler
+  YUI (Yahoo! UI Library) 3.4.0 Preview Release 1
+  Issue #28 — May 27, 2011
+  Announcing SproutCore 2.0 Developer Preview
+  140byt.es: Community-Curated Tweet-Sized JavaScript Code Snippets
+  JavaScript Byte Saving Techniques
+  Issue #27 — May 20, 2011
+  Released: Hands-On Node.JS by Pedro Teixeira
+  Getting Better at JavaScript by Rebecca Murphey
+  JSON: The JavaScript subset that isn't?
+  Issue #26 — May 13, 2011
+  CDN JS - A New CDN for Other JavaScript Libraries
+  Meet CoffeeScript: A New PeepCode Screencast
+  WebGL - A New Dimension for Browser Exploitation
+  Issue #25 — May 6, 2011
+  jQuery 1.6 Released
+  Microjs: Fantastic Micro-Frameworks and Micro-Libraries for Fun and Profit!
+  npm 1.0 Released
+  Issue #24 — April 29, 2011
+  Ext JS 4 Released: Rich Apps in Every Browser
+  Aptana Studio 3 Web Development IDE Now Available
+  jQuery 1.6 RC 1 Released
+  Issue #23 — April 22, 2011
+  jQuery 1.6 Beta 1 Released
+  Official jQuery Plugins: A Change in The Roadmap
+  The Node Beginner Book
+  Issue #22 — April 15, 2011
+  Internet Explorer 10 Platform Preview Released
+  Emscripten (LLVM to JavaScript Compiler) 1.0 Released
+  Remy Sharp's Server Side JavaScript with Node Workshop (UK)
+  Issue #21 — April 8, 2011
+  Mozilla CTO and JavaScript Inventor Brendan Eich Joins Ajax.org Advisory Board
+  CommunityJS: JavaScript User Groups & Conferences
+  Qooxdoo 1.4 and 1.3.1 Released
+  Issue #20 — April 1, 2011
+  jQuery 1.5.2 Released: Just Bug Fixes
+  Unveiling Felix's Node.js Guide
+  NodeJitsu looking for interns in NYC and SF
+  Issue #19 — March 25, 2011
+  jQuery 1.5.2 RC1 Released: Final Due March 31st
+  Akshell: Server-side JavaScript Development and Hosting
+  Firebug 1.7.0 Released: Now Supporting Firefox 4.0
+  Issue #18 — March 18, 2011
+  Is it AJAX's Birthday? Yes, It's 6 Years Old Today
+  Dojo 1.6 Released: Object Store, HTML5 Data Attributes and More
+  jQuery Conference 2011 (SF Bay Area) Schedule Posted
+  Issue #17 — March 11, 2011
+  WebGL 1.0 Specification Finalized
+  The Cloud9 'Development As A Service' Online JavaScript IDE Launches
+  Coming Soon: JavaScript Enlightenment by Cody Lindley
+  Issue #16 — March 4, 2011
+  Joyent Relaunches Its No.de Hosting Service
+  The 2011 jQuery Conference - April 16-17 - Mountain View, CA
+  JS in South Africa Conference - 2 April - 9 Seats Left
+  Issue #15 — February 25, 2011
+  Cappuccino 0.9 Released: Many New Controls
+  Google's Chrome 10 Offers Faster JavaScript
+  jQuery 1.5.1 Released: Now With Full IE 9 Support
+  Issue #14 — February 18, 2011
+  Game Closure Makes it a Breeze to Build Multiplayer, Cross-Platform Games
+  The yayQuery Podcast Digs Into jQuery 1.5
+  JavaScript Garden - Beautiful JavaScript Quirks
+  Issue #13 — February 11, 2011
+  Node 0.4 Released
+  Popcorn.js 0.2 Released
+  Nodester - Node's Answer to Heroku?
+  Issue #12 — February 4, 2011
+  jQuery 1.5 Released - For Real This Time!
+  jQuery Mobile Alpha 3 Released
+  Introduction to jQuery Mobile
+  Issue #11 — January 28, 2011
+  Zepto.js v0.4 Released – JSONP & More DOM Goodness
+  jQuery 1.5 Release Candidate 1 Released
+  Tutorial: A Sencha Touch MVC application with PhoneGap
+  Issue #10 — January 21, 2011
+  jQuery 1.5 Beta 1 Released
+  Cloud9 IDE Closed Beta Started
+  Harmony Of My Dreams
+  Issue #9 — January 14, 2011
+  YUI 3.3.0 Released: Lots of New Features
+  Node 0.3.4 Released with Experimental HTTPS Support
+  Firefox 4 Nightly Build Now Supports ECMAScript 5 'Strict Mode'
+  Issue #8 — January 7, 2011
+  NodeConf 2011 Call for Proposals Now Open
+  Debugging JavaScript Behind the Scenes
+  5 Things You Might Not Know about jQuery
+  Issue #7 — December 31, 2010
+  CoffeeScript 1.0 Released
+  jQuery Community Updates for December 2010
+  Node.JS 0.2.6 Released
+  Issue #6 — December 17, 2010
+  WebGL Support now in Chrome Beta
+  New JavaScript Master Class Announced for Jan 2011
+  Mozilla Vows To Match Google's JavaScript Performance
+  Issue #5 — December 10, 2010
+  Google's V8 Gets A Big Performance Boost with Crankshaft
+  Announcing JS Boot Camp: A 2 Day JavaScript Course
+  JavaScriptMVC 3.0 Released: More MVC for your jQuery
+  Issue #4 — December 3, 2010
+  Firebug 1.6.0 Released
+  Let's Make a JavaScript Framework: Free eBook
+  The HTML5 Adventure Calendar 2010
+  Issue #3 — November 26, 2010
+  Prototype 1.7 Released (For Real This Time)
+  Launching the JS1K Xmas Contest
+  40% off Pragmatic Bookshelf Books November 26 Only
+  Issue #2 — November 19, 2010
+  Processing.js v1.0 Released
+  Essential JavaScript And jQuery Design Patterns - A New, Free Book
+  JSMentors: A JavaScript discussion mailing list
+  Issue #1 — November 12, 2010
+  jQuery Mobile Alpha 2 Released
+  jQuery 1.4.4 Released
+  Infrastructure Company Joyent Invests in Node.js
+
